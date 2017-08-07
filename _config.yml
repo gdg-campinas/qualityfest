@@ -98,22 +98,22 @@ rockstarSpeakersTitle: "Destaque"
 rockstarSpeakersButtonText: "Veja todos palestrantes"
 
 # Location Block
-# R. Elis Regina, 131 - Cidade Universitária, Campinas - SP, 13083-859
-# Centro de Convenções da Unicamp
+# R. Dr. Ricardo Benetton Martins 1000 - Polo II de Alta Tecnologia, Campinas - SP, 13086-510
+# Pólis de Tecnologia
 locationBlockTitle: "Localização"
-eventLocationName: "Centro de Convenções da Unicamp"
-eventLocationLink: "https://www.unicamp.br/unicamp/noticias/centro-de-convencoes"
-eventStreetAddress: "R. Elis Regina, 131"
+eventLocationName: "Pólis de Tecnologia"
+eventLocationLink: "http://www.polisdetecnologia.com.br/"
+eventStreetAddress: "R. Dr. Ricardo Benetton Martins, 1000"
 eventAddressLocality: "Campinas"
-eventAddressLocalityRegion: "Cidade Universitária"
-eventPostalCode: "13083-859"
+eventAddressLocalityRegion: "Polo II de Alta Tecnologia"
+eventPostalCode: "13086-510"
 eventAddressCountry: "Brasil"
 eventStartTime: ""
 eventDoorTime: ""
 eventEndTime: ""
-eventPlaceCoordinates: "-22.8149538, -47.0728754"
-mapCenterCoordinates: "-22.8149538, -47.0728754"
-mapMobileCenterCoordinates: "-22.8149538, -47.0728754"
+eventPlaceCoordinates: "-22.8169863, -47.0471303"
+mapCenterCoordinates: "-22.8169863, -47.0471303"
+mapMobileCenterCoordinates: "-22.8169863, -47.0471303"
 
 # Venue Block
 venueBlockTitle: "Local"
@@ -121,8 +121,8 @@ venueBigImage: "venue_campinas_0.jpg"
 venueSmallImage1: "venue_campinas_1.jpg"
 venueSmallImage2: "venue_campinas_2.jpg"
 venueSmallImage3: "venue_campinas_3.jpg"
-venueTitle: "Centro de Convenções"
-venueFeatures: ["Unicamp", "Cidade Universitária"]
+venueTitle: "Pólis de Tecnologia"
+venueFeatures: ["Pólis de Tecnologia"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
