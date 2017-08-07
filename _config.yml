@@ -10,10 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "DataFest"
+title: "QualityFest"
 email: "contato@gdg-campinas.org"
-description: "O Data Fest é o maior evento do interior de São Paulo voltado para a disseminação do conhecimento a respeito de big data, armazenamento e processamento dados (data) e assuntos relacionados."
-baseurl: "/datafest"
+description: "O Quality Fest é o maior evento do interior de São Paulo voltado para a disseminação do conhecimento a respeito de big data, armazenamento e processamento dados (data) e assuntos relacionados."
+baseurl: "/qualityfest"
 url: "https://gdg-campinas.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -22,8 +22,8 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 mapsApiKey: "AIzaSyBKggjiyNZRv2LMI86wSOAu2f2yZzUXArI"
 
 aboutEvent:
-  title: "SOBRE O DATAFEST"
-  content: "O Data Fest é o maior evento do interior de São Paulo voltado para a disseminação do conhecimento a respeito de big data, armazenamento e processamento dados (data) e assuntos relacionados."
+  title: "SOBRE O QUALITYFEST"
+  content: "O Quality Fest é o maior evento do interior de São Paulo voltado para a disseminação do conhecimento a respeito de big data, armazenamento e processamento dados (data) e assuntos relacionados."
 aboutGDG:
   title: "O QUE É O GDG?"
   content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 622 comunidades espalhadas pelo mundo. 
@@ -38,7 +38,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.meetup.com/gdgcampinas/"
 
 # Head
-metaKeywords: "event, gdg, datafest, data, fest, google, programming, developers, campinas, database, sql, nosql, cloud"
+metaKeywords: "event, gdg, qualityfest, quality, fest, google, programming, developers, campinas"
 twitterAccount: "@gdgcampinas"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -59,13 +59,13 @@ navigationLinks:
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com.br/e/data-fest-17-tickets-36810938508", text: "Ingressos"}
+ - {link: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36810938508", text: "Ingressos"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com.br/e/data-fest-17-tickets-36810938508", text: "Ingressos"}
+ - {link: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36810938508", text: "Ingressos"}
 
 # Hero Block
 heroImage: "datacenter.jpg"
-heroTitle: "GDG <typeout> DataFest 2017"
+heroTitle: "GDG <typeout> QualityFest 2017"
 eventDate: "26 de Setembro de 2017"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
@@ -127,7 +127,7 @@ venueFeatures: ["Unicamp", "Cidade Universitária"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Esperamos por você!"
-twitterHashTag: "datafest"
+twitterHashTag: "qualityfest"
 twitterFeed: "<< twitter_feed_url >>"
 twitterHomeUrl: "https://twitter.com/gdgcampinas"
 
@@ -152,7 +152,7 @@ ticketsOffers:
   priceCurrency: "R$"
   ticketsNumber: "150"
   # ribbon: "-5%"
-  buyButtonLink: "https://www.eventbrite.com.br/e/data-fest-17-tickets-36810938508"
+  buyButtonLink: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36810938508"
   buyButtonText: "Comprar"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "06/08/2017T19:30"
