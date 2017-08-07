@@ -112,8 +112,8 @@ eventStartTime: ""
 eventDoorTime: ""
 eventEndTime: ""
 eventPlaceCoordinates: "-22.8169863, -47.0471303"
-mapCenterCoordinates: "-22.8169863, -47.0471303"
-mapMobileCenterCoordinates: "-22.8169863, -47.0471303"
+mapCenterCoordinates: "-22.8169863, -47.0449416"
+mapMobileCenterCoordinates: "-22.8169863, -47.0449416"
 
 # Venue Block
 venueBlockTitle: "Local"
