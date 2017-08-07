@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "QualityFest"
+title: "GDG QualityFest"
 email: "contato@gdg-campinas.org"
 description: "O Quality Fest é o maior evento do interior de São Paulo voltado para a disseminação do conhecimento a respeito de big data, armazenamento e processamento dados (data) e assuntos relacionados."
 baseurl: "/qualityfest"
@@ -64,9 +64,9 @@ rightNavigationButtons:
  - {link: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36810938508", text: "Ingressos"}
 
 # Hero Block
-heroImage: "datacenter.jpg"
+heroImage: "bughipster.jpg"
 heroTitle: "GDG <typeout> QualityFest 2017"
-eventDate: "26 de Setembro de 2017"
+eventDate: "16 de Setembro de 2017"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 heroButtons:
