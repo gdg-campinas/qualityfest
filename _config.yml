@@ -59,9 +59,9 @@ navigationLinks:
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36810938508", text: "Ingressos"}
+ - {link: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36847465762", text: "Ingressos"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36810938508", text: "Ingressos"}
+ - {link: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36847465762", text: "Ingressos"}
 
 # Hero Block
 heroImage: "bughipster.jpg"
@@ -152,7 +152,7 @@ ticketsOffers:
   priceCurrency: "R$"
   ticketsNumber: "150"
   # ribbon: "-5%"
-  buyButtonLink: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36810938508"
+  buyButtonLink: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36847465762"
   buyButtonText: "Comprar"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "06/08/2017T19:30"
