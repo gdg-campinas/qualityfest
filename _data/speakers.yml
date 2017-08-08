@@ -7,7 +7,7 @@
   title: "Engenheiro de Frontend"
   bio: "Palmeirense, Engenheiro e Javascript."
   thumbnailUrl: RaphaelMoraes.jpg
-  rockstar: true
+  rockstar: false
 
 # Frederico Moreira
 - 
@@ -18,7 +18,7 @@
   title: "QA Manager"
   bio: "QA Manager na Concrete, trabalhou em diversos projetos mobile, web e backend. Criador do meetup Café, teste e pão de queijo, mas também um dos fundadores do MTC. Já foi DJ por hobby, não vive sem uma boa cerveja artesanal, uma pinga e um torresmo. Palestrou em diversos eventos e participou de diversas comunidades."
   thumbnailUrl: FredericoMoreira.jpg
-  rockstar: true
+  rockstar: false
   
 # Wellington Avelino
 - 
@@ -29,7 +29,7 @@
   title: "QA Chapter Leader"
   bio: "Aproximadamente 5 anos na área de tecnologia, já atuei como desenvolvedor backend e mobile, atualmente atuando como QA na Concrete, sou entusiasta de especificação por exemplo, metodologias ágeis e testes, tenho coragem de colocar a mão desde automação frontend ao backend, sempre pensando nas melhores práticas e nunca deixando de lado a programação. Nas horas vagas não nego uma boa cerveja gelada e jogar conversa fora!"
   thumbnailUrl: WellingtonAvelino.jpg
-  rockstar: true
+  rockstar: false
   
 # Diego Moraes
 - 
@@ -40,7 +40,7 @@
   title: "Co-founder & Lead Designer"
   bio: ""
   thumbnailUrl: DiegoMoraes.jpg
-  rockstar: true
+  rockstar: false
   
 # Danilo Porcelani
 - 
@@ -51,7 +51,7 @@
   title: "Desenvolvedor"
   bio: "Especialista em Eletrônica pela Marinha do Brasil, Bacharel em Ciência da Computação pela Universidade Estadual do Rio de Janeiro e com Especialização de Desenvolvimento Web pela Universidade Estadual de Maringá. Danilo Porcelani é desenvolvedor, entusiasta de métodos ágeis e um grande amante da área de Teste e Qualidade de software."
   thumbnailUrl: DaniloPorcelani.jpg
-  rockstar: true
+  rockstar: false
   
 # Fernando Hatada
 - 
@@ -62,7 +62,153 @@
   title: "QA Chapter Leader"
   bio: "Atuo com qualidade de software há 10 anos, hoje faço a gestão do time de qualidade da Youse. Já participei de diversas oportunidades no mercado financeiro e farmacêutico, mas passei a gostar muito de atuar com as empresas que investiam em metodologia ágeis no desenvolvimento de software, como por exemplo, o Walmart.Com e a Youse."
   thumbnailUrl: FernandoHatada.jpg
+  rockstar: false
+
+# Elias Nogueira
+- 
+  id: 17
+  name: "Elias"
+  surname: "Nogueira"
+  company: "Sicredi"
+  title: "QA Engineer | Agile Coach"
+  bio: "Eu ajudo pessoas e empresas a criar softwares com uma alta qualidade para que eles tenham sempre com maior qualidade do que a concorrência.
+  É QA Engineer e Agile Coach no Sicredi e Professor de Pós Graduação na Unisinos/RS e Univali/SC.
+  Atuante na comunidade de desenvolvimento advoga entre todas as pessoas da área sobre a importância da qualidade e teste de software em grupos locais em diversas regiões. Já ministrou palestras nos principais eventos do Brasil como The Developers Conference, Scrum Gathering, JavaOne, Android DevConf, Campus Party, entre outros.
+  Organiza a Trilha Testes e DevTest do The Developers Conference e é organizador do Agile Coach Meetup Porto Alegre e do GDG Porto Alegre."
+  thumbnailUrl: EliasNogueira.jpg
   rockstar: true
+
+# Ariane Izac
+- 
+  id: 18
+  name: "Ariane"
+  surname: "Izac"
+  company: "Matera"
+  title: ""
+  bio: ""
+  thumbnailUrl: ArianeIzac.jpg
+  rockstar: true
+
+# Feh Papito
+# - 
+#   id: 19
+#   name: "Feh"
+#   surname: "Papito"
+#   company: "Dotz"
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: FehPapito.jpg
+#   rockstar: false
+
+# Rodrigo Botti
+- 
+  id: 20
+  name: "Rodrigo"
+  surname: "Botti"
+  company: "Nextel"
+  title: ""
+  bio: ""
+  thumbnailUrl: RodrigoBotti.jpg
+  rockstar: false
+
+# Bruno Abreu
+- 
+  id: 21
+  name: "Bruno"
+  surname: "Abreu"
+  company: "Sofist"
+  title: ""
+  bio: ""
+  thumbnailUrl: BrunoAbreu.jpg
+  rockstar: true  
+
+# Ubiratan Soares
+# - 
+#   id: 22
+#   name: "Ubiratan"
+#   surname: "Soares"
+#   company: "Luizalabs"
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: UbiratanSoares.jpg
+#   rockstar: false
+
+# Everton Gago
+- 
+  id: 23
+  name: "Everton"
+  surname: "Gago"
+  company: "Dextra"
+  title: ""
+  bio: ""
+  thumbnailUrl: EvertonGago.jpg
+  rockstar: true
+
+# Melissa Pontes
+- 
+  id: 24
+  name: "Melissa"
+  surname: "Pontes"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: MelissaPontes.jpg
+  rockstar: false
+
+# Rafael
+- 
+  id: 25
+  name: "Rafael"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+
+# Fred
+- 
+  id: 26
+  name: "Fred"
+  surname: ""
+  company: "Concrete"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false  
+
+# Walter / Claudemir
+- 
+  id: 27
+  name: "Walter / Claudemir"
+  surname: ""
+  company: "Sensedia"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false
+
+# Diego
+- 
+  id: 28
+  name: "Diego"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false    
+
+# Rapha
+- 
+  id: 29
+  name: "Rapha"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: false    
 
 # - 
 #   id: 99
