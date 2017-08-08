@@ -101,15 +101,15 @@
 #   rockstar: false
 
 # Rodrigo Botti
-- 
-  id: 20
-  name: "Rodrigo"
-  surname: "Botti"
-  company: "Nextel"
-  title: ""
-  bio: ""
-  thumbnailUrl: RodrigoBotti.jpg
-  rockstar: false
+# - 
+#   id: 20
+#   name: "Rodrigo"
+#   surname: "Botti"
+#   company: "Nextel"
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: RodrigoBotti.jpg
+#   rockstar: false
 
 # Bruno Abreu
 - 
@@ -156,59 +156,59 @@
   rockstar: false
 
 # Rafael
-- 
-  id: 25
-  name: "Rafael"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: false
+# - 
+#   id: 25
+#   name: "Rafael"
+#   surname: ""
+#   company: ""
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: 
+#   rockstar: false
 
 # Fred
-- 
-  id: 26
-  name: "Fred"
-  surname: ""
-  company: "Concrete"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: false  
+# - 
+#   id: 26
+#   name: "Fred"
+#   surname: ""
+#   company: "Concrete"
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: 
+#   rockstar: false  
 
 # Walter / Claudemir
-- 
-  id: 27
-  name: "Walter / Claudemir"
-  surname: ""
-  company: "Sensedia"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: false
+# - 
+#   id: 27
+#   name: "Walter / Claudemir"
+#   surname: ""
+#   company: "Sensedia"
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: 
+#   rockstar: false
 
 # Diego
-- 
-  id: 28
-  name: "Diego"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: false    
+# - 
+#   id: 28
+#   name: "Diego"
+#   surname: ""
+#   company: ""
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: 
+#   rockstar: false    
 
 # Rapha
-- 
-  id: 29
-  name: "Rapha"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: false    
+# - 
+#   id: 29
+#   name: "Rapha"
+#   surname: ""
+#   company: ""
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: 
+#   rockstar: false    
 
 # - 
 #   id: 99
