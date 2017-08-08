@@ -12,8 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GDG QualityFest"
 email: "contato@gdg-campinas.org"
-description: "Nessa conferência vamos abordar a qualidade de um produto  (software) em diversos aspectos e trazer a consciência de que todos são responsáveis pela qualidade final.
-A maior conferencia sobre qualidade do interior de São Paulo abordará a qualidade de um produto (software) em diversos aspectos e trazer a consciência de que todos são responsáveis pela qualidade final."
+description: "A maior conferencia sobre qualidade do interior de São Paulo abordará a qualidade de um produto (software) em diversos aspectos e trazer a consciência de que todos são responsáveis pela qualidade final."
 baseurl: "/qualityfest"
 url: "https://gdg-campinas.github.io"
 permalink: "/blog/:title"
@@ -24,8 +23,7 @@ mapsApiKey: "AIzaSyBKggjiyNZRv2LMI86wSOAu2f2yZzUXArI"
 
 aboutEvent:
   title: "SOBRE O QUALITYFEST"
-  content: "Nessa conferência vamos abordar a qualidade de um produto  (software) em diversos aspectos e trazer a consciência de que todos são responsáveis pela qualidade final.
-  A maior conferencia sobre qualidade do interior de São Paulo abordará a qualidade de um produto (software) em diversos aspectos e trazer a consciência de que todos são responsáveis pela qualidade final."
+  content: "A maior conferencia sobre qualidade do interior de São Paulo abordará a qualidade de um produto (software) em diversos aspectos e trazer a consciência de que todos são responsáveis pela qualidade final."
 aboutGDG:
   title: "O QUE É O GDG?"
   content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 622 comunidades espalhadas pelo mundo. 
@@ -146,7 +144,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Os ingressos dão acesso a todas as trilhas e coffee brakes."
+ticketsInfo: "Os ingressos dão acesso a todas as trilhas e coffee breaks."
 ticketsOffers:
  -
   name: "Early Bird"
