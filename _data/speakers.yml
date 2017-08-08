@@ -10,15 +10,15 @@
   rockstar: false
 
 # Frederico Moreira
-- 
-  id: 11
-  name: "Frederico"
-  surname: "Moreira"
-  company: "Concrete"
-  title: "QA Manager"
-  bio: "QA Manager na Concrete, trabalhou em diversos projetos mobile, web e backend. Criador do meetup Café, teste e pão de queijo, mas também um dos fundadores do MTC. Já foi DJ por hobby, não vive sem uma boa cerveja artesanal, uma pinga e um torresmo. Palestrou em diversos eventos e participou de diversas comunidades."
-  thumbnailUrl: FredericoMoreira.jpg
-  rockstar: false
+# - 
+#   id: 11
+#   name: "Frederico"
+#   surname: "Moreira"
+#   company: "Concrete"
+#   title: "QA Manager"
+#   bio: "QA Manager na Concrete, trabalhou em diversos projetos mobile, web e backend. Criador do meetup Café, teste e pão de queijo, mas também um dos fundadores do MTC. Já foi DJ por hobby, não vive sem uma boa cerveja artesanal, uma pinga e um torresmo. Palestrou em diversos eventos e participou de diversas comunidades."
+#   thumbnailUrl: FredericoMoreira.jpg
+#   rockstar: false
   
 # Wellington Avelino
 - 
@@ -54,15 +54,15 @@
   rockstar: false
   
 # Fernando Hatada
-- 
-  id: 16
-  name: "Fernando"
-  surname: "Hatada"
-  company: "Youse"
-  title: "QA Chapter Leader"
-  bio: "Atuo com qualidade de software há 10 anos, hoje faço a gestão do time de qualidade da Youse. Já participei de diversas oportunidades no mercado financeiro e farmacêutico, mas passei a gostar muito de atuar com as empresas que investiam em metodologia ágeis no desenvolvimento de software, como por exemplo, o Walmart.Com e a Youse."
-  thumbnailUrl: FernandoHatada.jpg
-  rockstar: false
+# - 
+#   id: 16
+#   name: "Fernando"
+#   surname: "Hatada"
+#   company: "Youse"
+#   title: "QA Chapter Leader"
+#   bio: "Atuo com qualidade de software há 10 anos, hoje faço a gestão do time de qualidade da Youse. Já participei de diversas oportunidades no mercado financeiro e farmacêutico, mas passei a gostar muito de atuar com as empresas que investiam em metodologia ágeis no desenvolvimento de software, como por exemplo, o Walmart.Com e a Youse."
+#   thumbnailUrl: FernandoHatada.jpg
+#   rockstar: false
 
 # Elias Nogueira
 - 
