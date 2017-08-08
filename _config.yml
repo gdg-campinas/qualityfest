@@ -122,7 +122,7 @@ venueSmallImage1: "venue_campinas_1.jpg"
 venueSmallImage2: "venue_campinas_2.jpg"
 venueSmallImage3: "venue_campinas_3.jpg"
 venueTitle: "Pólis de Tecnologia"
-venueFeatures: ["Pólis de Tecnologia"]
+venueFeatures: ["Campinas"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
