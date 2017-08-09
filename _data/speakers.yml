@@ -90,15 +90,15 @@
   rockstar: true
 
 # Feh Papito
-- 
-  id: 19
-  name: "Feh"
-  surname: "Papito"
-  company: "Dotz"
-  title: ""
-  bio: ""
-  thumbnailUrl: FehPapito.jpg
-  rockstar: false
+# - 
+#   id: 19
+#   name: "Feh"
+#   surname: "Papito"
+#   company: "Dotz"
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: FehPapito.jpg
+#   rockstar: false
 
 # Rodrigo Botti
 # - 
@@ -123,15 +123,15 @@
   rockstar: true  
 
 # Ubiratan Soares
-- 
-  id: 22
-  name: "Ubiratan"
-  surname: "Soares"
-  company: "Luizalabs"
-  title: ""
-  bio: ""
-  thumbnailUrl: UbiratanSoares.jpg
-  rockstar: false
+# - 
+#   id: 22
+#   name: "Ubiratan"
+#   surname: "Soares"
+#   company: "Luizalabs"
+#   title: ""
+#   bio: ""
+#   thumbnailUrl: UbiratanSoares.jpg
+#   rockstar: false
 
 # Everton Gago
 - 
