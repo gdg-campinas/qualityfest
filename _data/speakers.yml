@@ -9,15 +9,15 @@
   thumbnailUrl: RaphaelMoraes.jpg
   rockstar: false
 
-# Frederico Moreira
+# Fred Moreira
 - 
   id: 11
-  name: "Frederico"
+  name: "Fred"
   surname: "Moreira"
   company: "Concrete"
   title: "QA Manager"
   bio: "QA Manager na Concrete, trabalhou em diversos projetos mobile, web e backend. Criador do meetup Café, teste e pão de queijo, mas também um dos fundadores do MTC. Já foi DJ por hobby, não vive sem uma boa cerveja artesanal, uma pinga e um torresmo. Palestrou em diversos eventos e participou de diversas comunidades."
-  thumbnailUrl: FredericoMoreira.jpg
+  thumbnailUrl: FredMoreira.jpg
   rockstar: false
   
 # Wellington Avelino
@@ -168,17 +168,6 @@
   Amante de tecnologia Google e buscando se atualizar sempre com as novidades do universo Android."
   thumbnailUrl: RafaelDeAraujo.png
   rockstar: false
-
-# Fred Moreira
-- 
-  id: 26
-  name: "Fred"
-  surname: "Moreira"
-  company: "Concrete"
-  title: ""
-  bio: ""
-  thumbnailUrl: FredMoreira.jpg
-  rockstar: false  
 
 # Walter / Claudemir
 # - 
