@@ -10,15 +10,15 @@
   rockstar: false
 
 # Frederico Moreira
-# - 
-#   id: 11
-#   name: "Frederico"
-#   surname: "Moreira"
-#   company: "Concrete"
-#   title: "QA Manager"
-#   bio: "QA Manager na Concrete, trabalhou em diversos projetos mobile, web e backend. Criador do meetup Café, teste e pão de queijo, mas também um dos fundadores do MTC. Já foi DJ por hobby, não vive sem uma boa cerveja artesanal, uma pinga e um torresmo. Palestrou em diversos eventos e participou de diversas comunidades."
-#   thumbnailUrl: FredericoMoreira.jpg
-#   rockstar: false
+- 
+  id: 11
+  name: "Frederico"
+  surname: "Moreira"
+  company: "Concrete"
+  title: "QA Manager"
+  bio: "QA Manager na Concrete, trabalhou em diversos projetos mobile, web e backend. Criador do meetup Café, teste e pão de queijo, mas também um dos fundadores do MTC. Já foi DJ por hobby, não vive sem uma boa cerveja artesanal, uma pinga e um torresmo. Palestrou em diversos eventos e participou de diversas comunidades."
+  thumbnailUrl: FredericoMoreira.jpg
+  rockstar: false
   
 # Wellington Avelino
 - 
@@ -90,15 +90,15 @@
   rockstar: true
 
 # Feh Papito
-# - 
-#   id: 19
-#   name: "Feh"
-#   surname: "Papito"
-#   company: "Dotz"
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: FehPapito.jpg
-#   rockstar: false
+- 
+  id: 19
+  name: "Feh"
+  surname: "Papito"
+  company: "Dotz"
+  title: ""
+  bio: ""
+  thumbnailUrl: FehPapito.jpg
+  rockstar: false
 
 # Rodrigo Botti
 # - 
@@ -123,15 +123,15 @@
   rockstar: true  
 
 # Ubiratan Soares
-# - 
-#   id: 22
-#   name: "Ubiratan"
-#   surname: "Soares"
-#   company: "Luizalabs"
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: UbiratanSoares.jpg
-#   rockstar: false
+- 
+  id: 22
+  name: "Ubiratan"
+  surname: "Soares"
+  company: "Luizalabs"
+  title: ""
+  bio: ""
+  thumbnailUrl: UbiratanSoares.jpg
+  rockstar: false
 
 # Everton Gago
 - 
@@ -155,27 +155,30 @@
   thumbnailUrl: MelissaPontes.jpg
   rockstar: false
 
-# Rafael
-# - 
-#   id: 25
-#   name: "Rafael"
-#   surname: ""
-#   company: ""
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: 
-#   rockstar: false
+# Rafael de Araújo
+- 
+  id: 25
+  name: "Rafael"
+  surname: "de Araújo"
+  company: "Venturus"
+  title: "Desenvolvedor Android Sênior"
+  bio: "Desenvolvedor Android desde 2010, atualmente no Venturus Centro de Inovação Tecnológica como Analista de Desenvolvimento Sênior (Campinas-SP).
+  Trabalhou na arquitetura e estruturação de aplicativos para o mercado de pagamento virtual, entretenimento, consumo de conteúdo, assistente pessoais, entre outros.
+  Participante ativo da comunidade Android do Brasil, participa de eventos nacionais e internacionais e também escreve sobre Android e desenvolvimento mobile.
+  Amante de tecnologia Google e buscando se atualizar sempre com as novidades do universo Android."
+  thumbnailUrl: RafaelDeAraujo.png
+  rockstar: false
 
-# Fred
-# - 
-#   id: 26
-#   name: "Fred"
-#   surname: ""
-#   company: "Concrete"
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: 
-#   rockstar: false  
+# Fred Moreira
+- 
+  id: 26
+  name: "Fred"
+  surname: "Moreira"
+  company: "Concrete"
+  title: ""
+  bio: ""
+  thumbnailUrl: FredMoreira.jpg
+  rockstar: false  
 
 # Walter / Claudemir
 # - 
@@ -188,27 +191,16 @@
 #   thumbnailUrl: 
 #   rockstar: false
 
-# Diego
+# Andrelise
 # - 
 #   id: 28
-#   name: "Diego"
+#   name: "Andrelise"
 #   surname: ""
-#   company: ""
+#   company: "Ci&T"
 #   title: ""
 #   bio: ""
 #   thumbnailUrl: 
-#   rockstar: false    
-
-# Rapha
-# - 
-#   id: 29
-#   name: "Rapha"
-#   surname: ""
-#   company: ""
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: 
-#   rockstar: false    
+#   rockstar: false
 
 # - 
 #   id: 99
