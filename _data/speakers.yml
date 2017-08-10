@@ -89,27 +89,16 @@
   thumbnailUrl: ArianeIzac.jpg
   rockstar: true
 
-# Feh Papito
-# - 
-#   id: 19
-#   name: "Feh"
-#   surname: "Papito"
-#   company: "Dotz"
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: FehPapito.jpg
-#   rockstar: false
-
 # Rodrigo Botti
-# - 
-#   id: 20
-#   name: "Rodrigo"
-#   surname: "Botti"
-#   company: "Nextel"
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: RodrigoBotti.jpg
-#   rockstar: false
+- 
+  id: 20
+  name: "Rodrigo"
+  surname: "Botti"
+  company: "Nextel"
+  title: ""
+  bio: ""
+  thumbnailUrl: RodrigoBotti.jpg
+  rockstar: false
 
 # Bruno Abreu
 - 
@@ -121,17 +110,6 @@
   bio: ""
   thumbnailUrl: BrunoAbreu.jpg
   rockstar: true  
-
-# Ubiratan Soares
-# - 
-#   id: 22
-#   name: "Ubiratan"
-#   surname: "Soares"
-#   company: "Luizalabs"
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: UbiratanSoares.jpg
-#   rockstar: false
 
 # Everton Gago
 - 
@@ -190,19 +168,3 @@
 #   bio: ""
 #   thumbnailUrl: 
 #   rockstar: false
-
-# - 
-#   id: 99
-#   name: "Mateusz"
-#   surname: "Herych"
-#   company: "Base CRM, GDG Krakow"
-#   title: "Software Engineer"
-#   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-#   thumbnailUrl: MateuszHerych.jpg
-#   rockstar: false
-#   ribbon: 
-#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-#     - {name: "twitter", link: "https://twitter.com/mherych"}
