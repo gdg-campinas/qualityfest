@@ -36,7 +36,7 @@
   id: 14
   name: "Diego"
   surname: "Moraes"
-  company: ""
+  company: "Dentro da História"
   title: "Co-founder & Lead Designer"
   bio: ""
   thumbnailUrl: DiegoMoraes.jpg
@@ -59,7 +59,7 @@
   name: "Fernando"
   surname: "Hatada"
   company: "Youse"
-  title: "QA Chapter Leader"
+  title: "QA|Chapter Leader"
   bio: "Atuo com qualidade de software há 10 anos, hoje faço a gestão do time de qualidade da Youse. Já participei de diversas oportunidades no mercado financeiro e farmacêutico, mas passei a gostar muito de atuar com as empresas que investiam em metodologia ágeis no desenvolvimento de software, como por exemplo, o Walmart.Com e a Youse."
   thumbnailUrl: FernandoHatada.jpg
   rockstar: false
@@ -84,8 +84,8 @@
   name: "Ariane"
   surname: "Izac"
   company: "Matera"
-  title: ""
-  bio: ""
+  title: "Analista de Teste"
+  bio: "Analista de Teste na MATERA System há 5 anos. Trabalho com testes de software há mais de 9 anos, com testes manuais, planejamento dos testes em times ágeis, testes automáticos, testes de API's REST e \"apanhando\" de testes de performance. Filha de peixe (jornalista) peixinho sou. Sou blogueira na categoria Tecnologia no blog da MATERA e escrevo para o portal Fábrica de Testes também. E por fim, para não negar minha paixão, tenho um grupo no LinkedIn para reunir assuntos relacionados a testes: Diário de uma paixão: Teste de Software."
   thumbnailUrl: ArianeIzac.jpg
   rockstar: true
 
@@ -106,8 +106,8 @@
   name: "Bruno"
   surname: "Abreu"
   company: "Sofist"
-  title: ""
-  bio: ""
+  title: "CEO e One Day Testing"
+  bio: "CEO e fundador da Sofist e One Day Testing. Já participou de mais de 1300 projetos dos mais variados tipos na área de testes e qualidade de software, que produziram mais de 45 mil bugs como resultado. Hoje é responsável pela estratégia de crescimento da empresa e geração de novos negócios. Bruno também é fundador de outros negócios: CPF na Nota, OKNOK e Varejo 360."
   thumbnailUrl: BrunoAbreu.jpg
   rockstar: true  
 
@@ -117,8 +117,8 @@
   name: "Everton"
   surname: "Gago"
   company: "Dextra"
-  title: ""
-  bio: ""
+  title: "Desenvolvedor Sênior. Doutorando e Mestre em Eng Elétrica na Unicamp"
+  bio: "Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva."
   thumbnailUrl: EvertonGago.jpg
   rockstar: true
 
@@ -127,8 +127,8 @@
   id: 24
   name: "Melissa"
   surname: "Pontes"
-  company: ""
-  title: ""
+  company: "VetSaber / CESAR"
+  title: "Operations Director / Test Engineer"
   bio: ""
   thumbnailUrl: MelissaPontes.jpg
   rockstar: false
@@ -147,24 +147,36 @@
   thumbnailUrl: RafaelDeAraujo.png
   rockstar: false
 
-# Walter / Claudemir
+# Walter Moscardini
 # - 
-#   id: 27
-#   name: "Walter / Claudemir"
-#   surname: ""
+#   id: 26
+#   name: "Walter"
+#   surname: "Moscardini"
 #   company: "Sensedia"
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: 
+#   title: "Software engineer"
+#   bio: "Graduando no curso de Engenharia de Computação pela   Pontifícia Universidade Católica de Campinas, com cerca de dois anos e meio de experiência na área de desenvolvimento, majoritariamente Java, JS, HTML, CSS e Web Services, porém também com alguma experiencia em OpenStack, Kinect e, mais recentemente ROBOT Framework. Atualmente estagiando no time de P&D da Sensedia."
+#   thumbnailUrl: WalterMoscardini.jpg
 #   rockstar: false
 
-# Andrelise
+# Claudenir Machado
+# - 
+#   id: 27
+#   name: "Claudemir"
+#   surname: "Machado"
+#   company: "Sensedia"
+#   title: "Software engineer"
+#   bio: "Desenvolvedor de software utilizando Java, JavaScript, .NET(C#), Delphi e outras tecnologias ao longo dos últimos 06 anos. Graduado em Ciência da Computação (USC - Bauru/SP), Pós graduado em Desenvolvimento de Software para Web (UFSCar - São Carlos/SP) e matutando um mestrado numa linha de pesquisa ainda não definida."
+#   thumbnailUrl: ClaudemirMachado.jpg
+#   rockstar: false
+
+# Andrelise Rafael
 - 
   id: 28
   name: "Andrelise"
   surname: "Rafael"
   company: "Ci&T"
-  title: ""
-  bio: ""
+  title: "Quality Assurance"
+  bio: ""Mineira, engenheira, nerd e entusiasta da área de testes de software. Atuo há 5 anos com testes de software e atualmente em metodologias ágeis. Graduada em Engenharia da Computação pelo INATEL e pós graduada em MBA de Engenharia de Software orientada a serviços pela Devry Metrocamp. 
+  Fui palestrante do evento GDG Devfest com palestra sobre testes ágeis. Trabalhei em empresas de tecnologia como Cpqd, Samsung, Dextra e atualmente 'caço' os bugs de software na ci&t. Nas horas vagas coloco o backlog de série em dia e nao dispenso um bão pão de queijo e doce de leite.""
   thumbnailUrl: AndreliseRafael.jpeg
   rockstar: false
