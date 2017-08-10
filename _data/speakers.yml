@@ -159,12 +159,12 @@
 #   rockstar: false
 
 # Andrelise
-# - 
-#   id: 28
-#   name: "Andrelise"
-#   surname: ""
-#   company: "Ci&T"
-#   title: ""
-#   bio: ""
-#   thumbnailUrl: 
-#   rockstar: false
+- 
+  id: 28
+  name: "Andrelise"
+  surname: "Rafael"
+  company: "Ci&T"
+  title: ""
+  bio: ""
+  thumbnailUrl: AndreliseRafael.jpeg
+  rockstar: false
