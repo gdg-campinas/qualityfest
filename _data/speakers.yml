@@ -147,6 +147,18 @@
   thumbnailUrl: RafaelDeAraujo.png
   rockstar: false
 
+# Andrelise Rafael
+- 
+  id: 28
+  name: "Andrelise"
+  surname: "Rafael"
+  company: "Ci&T"
+  title: "Quality Assurance"
+  bio: ""Mineira, engenheira, nerd e entusiasta da área de testes de software. Atuo há 5 anos com testes de software e atualmente em metodologias ágeis. Graduada em Engenharia da Computação pelo INATEL e pós graduada em MBA de Engenharia de Software orientada a serviços pela Devry Metrocamp. 
+  Fui palestrante do evento GDG Devfest com palestra sobre testes ágeis. Trabalhei em empresas de tecnologia como Cpqd, Samsung, Dextra e atualmente 'caço' os bugs de software na ci&t. Nas horas vagas coloco o backlog de série em dia e nao dispenso um bão pão de queijo e doce de leite.""
+  thumbnailUrl: AndreliseRafael.jpeg
+  rockstar: false
+
 # Walter Moscardini
 # - 
 #   id: 26
@@ -168,15 +180,3 @@
 #   bio: "Desenvolvedor de software utilizando Java, JavaScript, .NET(C#), Delphi e outras tecnologias ao longo dos últimos 06 anos. Graduado em Ciência da Computação (USC - Bauru/SP), Pós graduado em Desenvolvimento de Software para Web (UFSCar - São Carlos/SP) e matutando um mestrado numa linha de pesquisa ainda não definida."
 #   thumbnailUrl: ClaudemirMachado.jpg
 #   rockstar: false
-
-# Andrelise Rafael
-- 
-  id: 28
-  name: "Andrelise"
-  surname: "Rafael"
-  company: "Ci&T"
-  title: "Quality Assurance"
-  bio: ""Mineira, engenheira, nerd e entusiasta da área de testes de software. Atuo há 5 anos com testes de software e atualmente em metodologias ágeis. Graduada em Engenharia da Computação pelo INATEL e pós graduada em MBA de Engenharia de Software orientada a serviços pela Devry Metrocamp. 
-  Fui palestrante do evento GDG Devfest com palestra sobre testes ágeis. Trabalhei em empresas de tecnologia como Cpqd, Samsung, Dextra e atualmente 'caço' os bugs de software na ci&t. Nas horas vagas coloco o backlog de série em dia e nao dispenso um bão pão de queijo e doce de leite.""
-  thumbnailUrl: AndreliseRafael.jpeg
-  rockstar: false
