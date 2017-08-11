@@ -1,25 +1,21 @@
 -
   id: 101
   title: "Coffee"
-  place: ""
   service: true
 
 -
   id: 102
   title: "Almoço"
-  place: ""
   service: true
 
 -
   id: 103
   title: "Apresentação GDG Campinas"
-  place: ""
   service: true
 
 -
   id: 104
   title: "Credenciamento"
-  place: ""
   service: true
 
 # Andrelise Rafael 
@@ -28,7 +24,7 @@
   title: ""
   description: ""
   subtype: presentation
-  speakers: [28]
+  speakers: 28
 
 # Ariane Izac
 -
