@@ -18,14 +18,6 @@
   title: "Credenciamento"
   service: true
 
-# Ariane Izac
--
-  id: 004
-  title: "Acredite, você pode agilizar feedbacks aplicando Dev Box Testing"
-  description: "Já imaginou reduzir aquele "ping-pong" de erros dentro do projeto? Ter feedbacks rápidos e antecipar problemas que poderiam trazer risco para sprint? Imagina você testador como ficará feliz em conseguir seguir o fluxo sem diversas interrupções por bugs que vão e voltam mais que ioiô? Parece mágica mas isso é possível aplicando em poucos minutos de seu dia um dev box testing maroto, testador x desenvolvedor! Ei, você! Já fez dev box testing hoje?"
-  subtype: presentation
-  speakers: [18]
-  
 # Andrelise Rafael 
 -
   id: 003
@@ -34,6 +26,14 @@
   subtype: presentation
   speakers: [28]
 
+# Ariane Izac
+-
+  id: 004
+  title: "Acredite, você pode agilizar feedbacks aplicando Dev Box Testing"
+  description: "Já imaginou reduzir aquele "ping-pong" de erros dentro do projeto? Ter feedbacks rápidos e antecipar problemas que poderiam trazer risco para sprint? Imagina você testador como ficará feliz em conseguir seguir o fluxo sem diversas interrupções por bugs que vão e voltam mais que ioiô? Parece mágica mas isso é possível aplicando em poucos minutos de seu dia um dev box testing maroto, testador x desenvolvedor! Ei, você! Já fez dev box testing hoje?"
+  subtype: presentation
+  speakers: [18]
+  
 #  Bruno Abreu
 -
   id: 005
