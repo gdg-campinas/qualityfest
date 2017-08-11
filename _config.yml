@@ -52,9 +52,9 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Principal"}
-#  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programação"}
+ - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Palestrantes"}
+#  - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/team/", text: "Time"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
