@@ -2,8 +2,8 @@
   date: "2017-09-16"
   dateReadable: "16 de Setembro"
   tracks: 
-    - {title: "A", color: "#90be4e"}
-    - {title: "B", color: "#03a9f4"}
+    - {title: "", color: "#90be4e"}
+    - {title: "", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "09:00",
