@@ -1,13 +1,21 @@
 -
-  id: 001
+  id: 101
   title: "Coffee"
-  place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+
 -
-  id: 002
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 102
+  title: "Almoço"
+  service: true
+
+-
+  id: 103
+  title: "Apresentação GDG Campinas"
+  service: true
+
+-
+  id: 104
+  title: "Credenciamento"
   service: true
 
 # Andrelise Rafael 
