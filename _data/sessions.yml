@@ -37,16 +37,16 @@
 #  Bruno Abreu
 -
   id: 005
-  # title: ""
-  # description: ""
+  title: ""
+  description: ""
   subtype: presentation
   speakers: [21]
 
 #  Danilo Porcelani
 -
   id: 006
-  # title: ""
-  # description: ""
+  title: ""
+  description: ""
   subtype: presentation
   speakers: [15]
 
