@@ -2,94 +2,123 @@
   id: 101
   title: "Coffee"
   service: true
+
 -
   id: 102
   title: "Almoço"
   service: true
+
 -
   id: 103
   title: "Apresentação GDG Campinas"
   service: true
+
 -
   id: 104
   title: "Credenciamento"
   service: true
+
+# Andrelise Rafael 
 -
   id: 003
-  title: ""
-  description: ""
+  # title: ""
+  # description: ""
   subtype: presentation
   speakers: [28]
+
+# Ariane Izac
 -
   id: 004
   title: "Acredite, você pode agilizar feedbacks aplicando Dev Box Testing"
   description: "Já imaginou reduzir aquele "ping-pong" de erros dentro do projeto? Ter feedbacks rápidos e antecipar problemas que poderiam trazer risco para sprint? Imagina você testador como ficará feliz em conseguir seguir o fluxo sem diversas interrupções por bugs que vão e voltam mais que ioiô? Parece mágica mas isso é possível aplicando em poucos minutos de seu dia um dev box testing maroto, testador x desenvolvedor! Ei, você! Já fez dev box testing hoje?"
   subtype: presentation
   speakers: [18]
+  
+#  Bruno Abreu
 -
   id: 005
-  title: ""
-  description: ""
+  # title: ""
+  # description: ""
   subtype: presentation
   speakers: [21]
+
+#  Danilo Porcelani
 -
   id: 006
-  title: ""
-  description: ""
+  # title: ""
+  # description: ""
   subtype: presentation
   speakers: [15]
+
+#  Diego Moraes
 -
   id: 007
   title: "A qualidade está na casca"
   description: "Faz alguns anos que venho trabalhando em produtos que trazem a felicidades pra vida das pessoas e quando os times tinham o mindset em que a qualidade está na casca obtivemos os melhore resultados. Se você concorda ou não concorda com isso tudo bem, vamos trocar experiências!"
   subtype: presentation
   speakers: [14]
+
+#  Elias Nogueira
 -
   id: 008
   title: "Keynote"
-  description: ""
+  # description: ""
   subtype: keynote
   speakers: [17]
+
+#  Everton Gago
 -
   id: 009
-  title: ""
-  description: ""
+  # title: ""
+  # description: ""
   subtype: presentation
   speakers: [23]
+
+#  Fernando Hatada
 -
   id: 010
   title: "Case: Youse, Qualidade e Colaboração."
   description: "A ideia da talk é compartilhar com a galera, como a Youse começou seu processo de qualidade, com muitos e muitos testes manuais e como ela evoluiu em um ano, passando a investir em testes automatizados, deploys mais seguros e com maior velocidade, além de culturalmente trabalhar a corresponsabilidade de entregas de novas features automatizadas junto com os desenvolvedores."
   subtype: presentation
   speakers: [16]
+
+#  Fred Moreira e Wellington Avelino
 -
   id: 011
   title: "Pirâmide de Testes Mobile, dividindo seus testes de maneira efetiva"
   description: "Muito se fala sobre automação de testes no mundo mobile, nesta palestra iremos mostrar na prática como dividir seus testes automatizados de um app em níveis diferentes de testes. Mostraremos como sair fora da caixa e não apenas automatizar seus testes no nível de UI, como temos visto com alta frequência no mercado. Parte disso é escrever cenários de testes com as melhores práticas e também a postura de um QA num time ágil, acreditamos que esse conjunto de ações nos permitem trabalhar de forma mais efetiva com o time."
   subtype: presentation
   speakers: [11,12]
+
+#  Melissa Pontes
 -
   id: 012
-  title: ""
-  description: ""
+  # title: ""
+  # description: ""
   subtype: presentation
   speakers: [24]
+
+#  Rafael de Araujo
 -
   id: 013
-  title: ""
-  description: ""
+  # title: ""
+  # description: ""
   subtype: presentation
   speakers: [25]
+
+#  Raphael Moraes
 -
   id: 014
   title: "Frontend QA"
   description: "Identificando as áreas de melhoria para dar outra cara ao produto final."
   subtype: presentation
   speakers: [10]
+
+#  Rodrigo Botti
 -
   id: 015
-  title: ""
-  description: ""
+  # title: ""
+  # description: ""
   subtype: presentation
   speakers: [20]
 
