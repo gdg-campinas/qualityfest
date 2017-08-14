@@ -148,26 +148,26 @@
   rockstar: false
 
 # Walter Moscardini
-# - 
-#   id: 26
-#   name: "Walter"
-#   surname: "Moscardini"
-#   company: "Sensedia"
-#   title: "Software engineer"
-#   bio: "Graduando no curso de Engenharia de Computação pela   Pontifícia Universidade Católica de Campinas, com cerca de dois anos e meio de experiência na área de desenvolvimento, majoritariamente Java, JS, HTML, CSS e Web Services, porém também com alguma experiencia em OpenStack, Kinect e, mais recentemente ROBOT Framework. Atualmente estagiando no time de P&D da Sensedia."
-#   thumbnailUrl: WalterMoscardini.jpg
-#   rockstar: false
+- 
+  id: 26
+  name: "Walter"
+  surname: "Moscardini"
+  company: "Sensedia"
+  title: "Software engineer"
+  bio: "Graduando no curso de Engenharia de Computação pela Pontifícia Universidade Católica de Campinas, com cerca de dois anos e meio de experiência na área de desenvolvimento, majoritariamente Java, JS, HTML, CSS e Web Services, porém também com alguma experiencia em OpenStack4j, Kinect e, mais recentemente APIs e ROBOT Framework. Atualmente estagiando no time de P&D da Sensedia."
+  thumbnailUrl: WalterMoscardini.jpg
+  rockstar: false
 
 # Claudenir Machado
-# - 
-#   id: 27
-#   name: "Claudemir"
-#   surname: "Machado"
-#   company: "Sensedia"
-#   title: "Software engineer"
-#   bio: "Desenvolvedor de software utilizando Java, JavaScript, .NET(C#), Delphi e outras tecnologias ao longo dos últimos 06 anos. Graduado em Ciência da Computação (USC - Bauru/SP), Pós graduado em Desenvolvimento de Software para Web (UFSCar - São Carlos/SP) e matutando um mestrado numa linha de pesquisa ainda não definida."
-#   thumbnailUrl: ClaudemirMachado.jpg
-#   rockstar: false
+- 
+  id: 27
+  name: "Claudemir"
+  surname: "Machado"
+  company: "Sensedia"
+  title: "Software engineer"
+  bio: "Desenvolvedor de software utilizando Java, JavaScript, .NET(C#), Delphi e outras tecnologias ao longo dos últimos 06 anos. Graduado em Ciência da Computação (USC - Bauru/SP), Pós graduado em Desenvolvimento de Software para Web (UFSCar - São Carlos/SP) e matutando um mestrado numa linha de pesquisa ainda não definida."
+  # thumbnailUrl: 
+  rockstar: false
 
 # Andrelise Rafael
 -

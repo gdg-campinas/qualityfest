@@ -123,9 +123,9 @@
   speakers: [20]
 
 #  Walter e Claudenir
-# -
-#   id: 016
-#   title: "Automatizando seus testes com Robot Framework"
-#   description: "Nesta palestra apresentaremos como tal ferramenta auxiliou no processo de automatização dos testes, dado o contexto de Microserviços."
-#   subtype: presentation
-#   speakers: [26,27]
+-
+  id: 016
+  title: "Automatizando seus testes com Robot Framework"
+  description: "Nesta palestra apresentaremos como tal ferramenta auxiliou no processo de automatização dos testes, dado o contexto de Microserviços."
+  subtype: presentation
+  speakers: [26,27]
