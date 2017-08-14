@@ -37,8 +37,8 @@
 #  Bruno Abreu
 -
   id: 005
-  title: ""
-  description: ""
+  title: "Como testar sob pressão e com grande restrição de tempo"
+  description: "Você já imaginou o que consegue entregar em apenas 1 dia de trabalho? O que fazer para maximizar o resultado? Nesta palestra compartilharei o aprendizado obtido por nosso time após a entrega de mais de 1300 projetos de testes com restrição de prazo extrema. Você irá aprender sobre os atributos mais importantes que permitem ao QA entregar muito valor em tão pouco tempo."
   subtype: presentation
   speakers: [21]
 
@@ -54,7 +54,7 @@
 -
   id: 007
   title: "A qualidade está na casca"
-  description: "Faz alguns anos que venho trabalhando em produtos que trazem a felicidades pra vida das pessoas e quando os times tinham o mindset em que a qualidade está na casca obtivemos os melhore resultados. Se você concorda ou não concorda com isso tudo bem, vamos trocar experiências!"
+  description: "Faz alguns anos que venho trabalhando em produtos que trazem a felicidades pra vida das pessoas e quando os times tinham o mindset em que a qualidade está na casca obtivemos os melhores resultados. Se você concorda ou não concorda com isso tudo bem, vamos trocar experiências!"
   subtype: presentation
   speakers: [14]
 
@@ -101,8 +101,8 @@
 #  Rafael de Araujo
 -
   id: 013
-  # title: ""
-  # description: ""
+  title: "Qualidade de código Android"
+  description: "Conhecendo técnicas e ferramentas para garantir a qualidade de código Android. Evite bugs, garanta um padrão de código esteticamente familiarizado à todos da equipe e a integração continua com sucesso do seu projeto."
   subtype: presentation
   speakers: [25]
 
