@@ -22,7 +22,8 @@
 -
   id: 003
   title: "BDD: Como quebrar as barreiras de negócios dentro do time"
-  description: ""
+  description: "Desenvolvimento orientado por comportamento? Devs e Testers trabalhando juntos com o negócio? Socorro!!! Corram para as montanhas!
+  Calma gente! Não há necessidade de correr para as montanhas. Nesta palestra vou apresentar como o BDD pode quebrar barreiras internas do time com o negócios e todos se sentirem parte importante do projeto."
   subtype: presentation
   speakers: [28]
 
