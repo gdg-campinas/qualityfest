@@ -130,3 +130,11 @@
   description: "Nesta palestra apresentaremos como tal ferramenta auxiliou no processo de automatização dos testes, dado o contexto de Microserviços."
   subtype: presentation
   speakers: [26,27]
+
+  #  Juliana Salgado
+-
+  id: 017
+  title: "Alcançando novos usuários através da Acessibilidade"
+  description: "Há aproximadamente 285 milhões de pessoas com dificuldade visual no mundo. Aproximadamente 1 em cada 12 homens (8%) e 1 em cada 200 mulheres (0.5%) sofre de daltonismo. Ainda há diversas deficiências que afetam a população. Você já se perguntou se os serviços são acessíveis a essas pessoas? Nesta palestra, a Product Owner do iFood, Juliana Salgado, vai mostrar da perspectiva de um deficiente visual como é utilizar um produto que não é acessível e mostrar que é possível aumentar o número de usuários e ainda mudar muitas vidas sem grandes esforços!"
+  subtype: presentation
+  speakers: [29]

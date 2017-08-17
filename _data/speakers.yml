@@ -180,3 +180,16 @@
   Fui palestrante do evento GDG Devfest com palestra sobre testes ágeis. Trabalhei em empresas de tecnologia como Cpqd, Samsung, Dextra e atualmente 'caço' os bugs de software na ci&t. Nas horas vagas coloco o backlog de série em dia e nao dispenso um bão pão de queijo e doce de leite."
   thumbnailUrl: AndreliseRafael.jpeg
   rockstar: false
+
+  # Juliana Salgado
+-
+  id: 29
+  name: "Juliana"
+  surname: "Salgado"
+  company: "iFood"
+  title: ""
+  bio: "Juliana Salgado é graduada em Sistemas de Informação pela PUC-Campinas. Na graduação teve oportunidade de participar de um projeto de iniciação científica na área de acessibilidade e desde então é embaixadora do tema.
+  Concluiu o curso de especialização em parceria com a Apple, o BEPiD, e foi premiada por três anos consecutivos no WWDC Scholarship, concurso internacional em que 350 pessoas no mundo ao submeter um aplicativo concorrem a um ticket para a conferência anual da Apple.
+  Atualmente é Product Owner no iFood, na empresa foi quem conduziu as iniciativas de acessibilidade e atua no seu dia a dia em um produto impactando a vida de milhões de usuários."
+  thumbnailUrl: JulianaSalgado.jpg
+  rockstar: false
