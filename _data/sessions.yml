@@ -118,8 +118,11 @@
 #  Rodrigo Botti
 -
   id: 015
-  # title: ""
-  # description: ""
+  title: "Garantindo qualidade em um back-end de microserviços"
+  description: "Você tem confiança de jogar um commit direto em produção no meio do dia?
+  Nesse talk veremos como podemos ter essa flexibilidade e agilidade sem comprometer a qualidade.
+  Mostrarei, utilizando o case da empresa Nextel, como montar um pipeline de integração/entrega contínua com checks de qualidade
+  e como aplicamos esse processo no desenvolvimento de nosso back-end orientado a microserviços"
   subtype: presentation
   speakers: [20]
 
