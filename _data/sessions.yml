@@ -68,12 +68,12 @@
   speakers: [17]
 
 #  Everton Gago
--
-  id: 009
-  # title: ""
-  # description: ""
-  subtype: presentation
-  speakers: [23]
+# -
+#   id: 009
+#   # title: ""
+#   # description: ""
+#   subtype: presentation
+#   speakers: [23]
 
 #  Fernando Hatada
 -
@@ -92,12 +92,12 @@
   speakers: [11,12]
 
 #  Melissa Pontes
--
-  id: 012
-  # title: ""
-  # description: ""
-  subtype: presentation
-  speakers: [24]
+# -
+#   id: 012
+#   # title: ""
+#   # description: ""
+#   subtype: presentation
+#   speakers: [24]
 
 #  Rafael de Araujo
 -

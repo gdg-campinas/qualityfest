@@ -112,26 +112,26 @@
   rockstar: true  
 
 # Everton Gago
-- 
-  id: 23
-  name: "Everton"
-  surname: "Gago"
-  company: "iFood"
-  title: "Desenvolvedor Sênior. Doutorando e Mestre em Eng Elétrica na Unicamp"
-  bio: "Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva."
-  thumbnailUrl: EvertonGago.jpg
-  rockstar: true
+# - 
+#   id: 23
+#   name: "Everton"
+#   surname: "Gago"
+#   company: "iFood"
+#   title: "Desenvolvedor Sênior. Doutorando e Mestre em Eng Elétrica na Unicamp"
+#   bio: "Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva."
+#   thumbnailUrl: EvertonGago.jpg
+#   rockstar: true
 
 # Melissa Pontes
-- 
-  id: 24
-  name: "Melissa"
-  surname: "Pontes"
-  company: "VetSaber / CESAR"
-  title: "Operations Director / Test Engineer"
-  bio: "Mestre em Engenharia de Software. Certificada em testes de software pelo ISTBQ (International Software Testing Qualifications Board). Desde 2005, é engenheira de testes de software no CESAR - Centro de Estudos e Sistemas Avançados do Recife. Possui artigos e trabalhos publicados em eventos e revistas nacionais e internacionais. Ministra aulas em faculdades. Integrante do Cesar Brazil Team, equipe campeã da Copa do Mundo de Testes de Software (2014) promovida pelo Agile Testing Days, na Alemanha. Integrante do corpo de jurados do mesmo campeonato em 2016. Fez parte do Comitê Técnico de avaliação de trabalhos submetidos para o EXPO QA (Madrid-2016). É presidente da ONG Recife é o Bicho e é estudante de Medicina Veterinária. Acredita que interdisciplinaridade é uma coisa fantástica, e por isso, promove a criação de soluções tecnológicas para a saúde. É associada a ANCLIVEPA – Associação Nacional de Clínicos Veterinários de Pequenos Animais."
-  thumbnailUrl: MelissaPontes.jpg
-  rockstar: false
+# - 
+#   id: 24
+#   name: "Melissa"
+#   surname: "Pontes"
+#   company: "VetSaber / CESAR"
+#   title: "Operations Director / Test Engineer"
+#   bio: "Mestre em Engenharia de Software. Certificada em testes de software pelo ISTBQ (International Software Testing Qualifications Board). Desde 2005, é engenheira de testes de software no CESAR - Centro de Estudos e Sistemas Avançados do Recife. Possui artigos e trabalhos publicados em eventos e revistas nacionais e internacionais. Ministra aulas em faculdades. Integrante do Cesar Brazil Team, equipe campeã da Copa do Mundo de Testes de Software (2014) promovida pelo Agile Testing Days, na Alemanha. Integrante do corpo de jurados do mesmo campeonato em 2016. Fez parte do Comitê Técnico de avaliação de trabalhos submetidos para o EXPO QA (Madrid-2016). É presidente da ONG Recife é o Bicho e é estudante de Medicina Veterinária. Acredita que interdisciplinaridade é uma coisa fantástica, e por isso, promove a criação de soluções tecnológicas para a saúde. É associada a ANCLIVEPA – Associação Nacional de Clínicos Veterinários de Pequenos Animais."
+#   thumbnailUrl: MelissaPontes.jpg
+#   rockstar: false
 
 # Rafael de Araújo
 - 
