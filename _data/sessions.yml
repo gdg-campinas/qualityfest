@@ -20,7 +20,7 @@
 
   -
   id: 105
-  title: "TBD"
+  # title: ""
   service: true
 
 # Andrelise Rafael 
@@ -75,8 +75,8 @@
 #  Everton Gago
 # -
 #   id: 009
-#   # title: ""
-#   # description: ""
+#   title: ""
+#   description: ""
 #   subtype: presentation
 #   speakers: [23]
 
@@ -99,8 +99,8 @@
 #  Melissa Pontes
 # -
 #   id: 012
-#   # title: ""
-#   # description: ""
+#   title: ""
+#   description: ""
 #   subtype: presentation
 #   speakers: [24]
 
