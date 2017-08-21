@@ -20,7 +20,7 @@
 
   -
   id: 105
-  # title: ""
+  title: "TBD"
   service: true
 
 # Andrelise Rafael 
@@ -72,14 +72,6 @@
   subtype: keynote
   speakers: [17]
 
-#  Everton Gago
-# -
-#   id: 009
-#   title: ""
-#   description: ""
-#   subtype: presentation
-#   speakers: [23]
-
 #  Fernando Hatada
 -
   id: 010
@@ -95,14 +87,6 @@
   description: "Muito se fala sobre automação de testes no mundo mobile, nesta palestra iremos mostrar na prática como dividir seus testes automatizados de um app em níveis diferentes de testes. Mostraremos como sair fora da caixa e não apenas automatizar seus testes no nível de UI, como temos visto com alta frequência no mercado. Parte disso é escrever cenários de testes com as melhores práticas e também a postura de um QA num time ágil, acreditamos que esse conjunto de ações nos permitem trabalhar de forma mais efetiva com o time."
   subtype: presentation
   speakers: [11,12]
-
-#  Melissa Pontes
-# -
-#   id: 012
-#   title: ""
-#   description: ""
-#   subtype: presentation
-#   speakers: [24]
 
 #  Rafael de Araujo
 -
