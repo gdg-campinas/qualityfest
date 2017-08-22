@@ -47,7 +47,7 @@
   id: 15
   name: "Danilo"
   surname: "Porcelani"
-  company: "Matera Systems"
+  company: "MATERA Systems"
   title: "Desenvolvedor Web"
   bio: "Especialista em Eletrônica pela Marinha do Brasil, Bacharel em Ciência da Computação pela Universidade Estadual do Rio de Janeiro e com Especialização de Desenvolvimento Web pela Universidade Estadual de Maringá. Danilo Porcelani é desenvolvedor, entusiasta de métodos ágeis e um grande amante da área de Teste e Qualidade de software."
   thumbnailUrl: DaniloPorcelani.jpg
@@ -83,9 +83,9 @@
   id: 18
   name: "Ariane"
   surname: "Izac"
-  company: "Matera"
+  company: "MATERA Systems"
   title: "Analista de Teste"
-  bio: "Analista de Teste na MATERA System há 5 anos. Trabalho com testes de software há mais de 9 anos, com testes manuais, planejamento dos testes em times ágeis, testes automáticos, testes de API's REST e \"apanhando\" de testes de performance. Filha de peixe (jornalista) peixinho sou. Sou blogueira na categoria Tecnologia no blog da MATERA e escrevo para o portal Fábrica de Testes também. E por fim, para não negar minha paixão, tenho um grupo no LinkedIn para reunir assuntos relacionados a testes: Diário de uma paixão: Teste de Software."
+  bio: "Analista de Teste na MATERA Systems há 5 anos. Trabalho com testes de software há mais de 9 anos, com testes manuais, planejamento dos testes em times ágeis, testes automáticos, testes de API's REST e \"apanhando\" de testes de performance. Filha de peixe (jornalista) peixinho sou. Sou blogueira na categoria Tecnologia no blog da MATERA Systems e escrevo para o portal Fábrica de Testes também. E por fim, para não negar minha paixão, tenho um grupo no LinkedIn para reunir assuntos relacionados a testes: Diário de uma paixão: Teste de Software."
   thumbnailUrl: ArianeIzac.jpg
   rockstar: true
 
