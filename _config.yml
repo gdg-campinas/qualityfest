@@ -156,7 +156,7 @@ ticketsOffers:
   buyButtonText: "Comprar"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "06/08/2017T19:30"
-  validThrough: "26/08/2017T23:59"
+  validThrough: "30/08/2017T23:59"
  -
   name: "Ticket"
   price: "55,00"
