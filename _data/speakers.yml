@@ -182,3 +182,14 @@
   bio: "Mestre em Ciência da Computação/UFPE. Trabalho há 10 anos com QA. Hoje sou Head de Pré-vendas e Inovação. Minha missão é guiar nossos clientes na jornada de QA pela Transformação Digital."
   thumbnailUrl: RafaelNobrega.jpg
   rockstar: false
+
+# Rodrigo Lemes
+-
+  id: 31
+  name: "Rodrigo"
+  surname: "Lemes"
+  company: "Samsung"
+  title: "Lead Design"
+  bio: "Rodrigo Lemes é líder de design no Instituto SIDI em Campinas, formado na área de comunicação e especialista em gestão do design, possui mais de 20 anos de experiência na área de design. Ministra palestras e workshops voltados para o conhecimento do que é a Experiência do usuário e o posicionamento dos designers dentro de empresas e usa o seu canal no Youtube DesignTeam para reforçar o posicionamento e a importância do pensar em design em empresas"
+  thumbnailUrl: RodrigoLemes.jpg
+  rockstar: false

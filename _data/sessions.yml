@@ -64,11 +64,13 @@
   subtype: presentation
   speakers: [14]
 
-#  Elias Nogueira
+#  Elias Nogueira - Keynote
 -
   id: 008
-  title: "Keynote"
-  # description: ""
+  title: "Keynote: A importância de teste em todos os aspectos"
+  description: "A responsabilidade dos testes não é somente do testador, mas sim de todo o time!
+Mas como sabemos quais aspectos e níveis testar e como fazer todos os membros do time ter a mesma visão referente a qualidade e testes na aplicação?
+Nesta apresentação mostrarei os alguns aspectos que podemos e devemos focar a a interação entre todos os membros do time para caminhar em conjunto rumo a qualidade."
   subtype: keynote
   speakers: [17]
 
@@ -138,3 +140,21 @@
   description: "Inmetrics (www.inmetrics.com.br) apresenta a plataforma de IoT da Konker (www.konkerlabs.com) e os principais desafios para realizar testes no mundo da Internet das Coisas."
   subtype: presentation
   speakers: [30]
+
+#  Elias Nogueira - Talk
+-
+  id: 107
+  title: "Criando uma grid para execução de teste automatizado funcional e e2e"
+  description: "Você já parou para pensar que, além de demorado a execução de testes na interface gráfica tem que cobrir diversas restrições como tipo do dispositivo, tamanho de tela, hardware, etc.?
+Está cansado de executar o mesmo script de teste em diferentes dispositivos, um a uma?
+Venha aprender a como construir um grid de dispositivos reais e/ou emulados para a execução de testes automatizados para Android e iOS em apps híbridas ou nativas."
+  subtype: presentation
+  speakers: [17]
+
+#  Rodrigo Lemes
+-
+  id: 108
+  title: "As reais métricas ne real"
+  description: "Falamos muito sobre a aplicação das métricas em produtos, mas como é sua aplicação e uso no dia a dia? Precisamos de mais dados além das métricas para conseguirmos entender nosso usuário e nosso produto? Como pensar e traduzir métricas? Vamos ver todos esses pontos usando o case real do produto SamsungKids e o trabalho real de pensar e usar métricas."
+  subtype: presentation
+  speakers: [31]
