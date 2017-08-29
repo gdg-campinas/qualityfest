@@ -51,3 +51,12 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/renatorfr/"}
     - {name: "facebook", link: "https://www.facebook.com/renatorfr"}
+- 
+  id: 5
+  name: "Rodrigo"
+  surname: "Cardoso"
+  title: "Apresentador"
+  thumbnailUrl: RodrigoCardoso.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pokemaobr/"}
