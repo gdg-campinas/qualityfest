@@ -18,10 +18,13 @@
   title: "Credenciamento"
   service: true
 
+# Paola Rodrigues
 -
   id: 105
-  title: " "
-  service: true
+  title: "7 dicas para criar testes efetivos"
+  description: "Há muitos anos se fala de testes automatizados, mas parece que o Brasil despertou para isso há pouco tempo. Com esta nova febre, os testers tem dedicado toda sua força em aprender novas linguagens de automação e muitas pessoas passaram a ver a área de testes como uma oportunidade de programar sem ser efetivamente um programador. Isso tem gerado testers mais focados em automatizar do que em gerar testes eficientes. Saiba como melhorar isso com sete dicas simples."
+  subtype: presentation
+  speakers: [32]
 
 # Andrelise Rafael 
 -

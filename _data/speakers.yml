@@ -193,3 +193,14 @@
   bio: "Rodrigo Lemes é líder de design no Instituto SIDI em Campinas, formado na área de comunicação e especialista em gestão do design, possui mais de 20 anos de experiência na área de design. Ministra palestras e workshops voltados para o conhecimento do que é a Experiência do usuário e o posicionamento dos designers dentro de empresas e usa o seu canal no Youtube DesignTeam para reforçar o posicionamento e a importância do pensar em design em empresas"
   thumbnailUrl: RodrigoLemes.jpg
   rockstar: false
+
+# Paola Rodrigues
+-
+  id: 32
+  name: "Paola"
+  surname: "Rodrigues"
+  company: "Dextra"
+  title: "Analista de Teste"
+  bio: ""
+  thumbnailUrl: PaolaRodrigues.jpg
+  rockstar: false
