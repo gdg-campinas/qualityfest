@@ -111,9 +111,9 @@ eventAddressCountry: "Brasil"
 eventStartTime: ""
 eventDoorTime: ""
 eventEndTime: ""
-eventPlaceCoordinates: "-22.9009994, -47.0435565"
-mapCenterCoordinates: "-22.9009994, -47.0435565"
-mapMobileCenterCoordinates: "-22.9009994, -47.0435565"
+eventPlaceCoordinates: "-22.901004,-47.042149"
+mapCenterCoordinates: "-22.901004,-47.042149"
+mapMobileCenterCoordinates: "-22.901004,-47.042149"
 
 # Venue Block
 venueBlockTitle: "Local"
