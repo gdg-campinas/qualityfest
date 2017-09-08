@@ -157,7 +157,7 @@ Venha aprender a como construir um grid de dispositivos reais e/ou emulados para
 #  Rodrigo Lemes
 -
   id: 108
-  title: "As reais métricas ne real"
+  title: "As reais métricas na real"
   description: "Falamos muito sobre a aplicação das métricas em produtos, mas como é sua aplicação e uso no dia a dia? Precisamos de mais dados além das métricas para conseguirmos entender nosso usuário e nosso produto? Como pensar e traduzir métricas? Vamos ver todos esses pontos usando o case real do produto SamsungKids e o trabalho real de pensar e usar métricas."
   subtype: presentation
   speakers: [31]
