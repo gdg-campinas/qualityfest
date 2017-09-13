@@ -159,19 +159,22 @@ ticketsOffers:
   validThrough: "30/08/2017T23:59"
   soldOut: true
   soldOutText: "Esgotado"
+  disabled: true
  -
   name: "Ticket"
   price: "55,00"
   priceCurrency: "R$"
   ticketsNumber: "50"
   # ribbon: "-20%"
-  featured: true
+  # featured: true
   buyButtonLink: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36847465762"
   buyButtonText: "Comprar"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "27/08/2017T00:00"
   validThrough: "09/09/2017T23:59"
-  # disabled: true
+  soldOut: true
+  soldOutText: "Esgotado"
+  disabled: true
  -
   name: "Late Bird"
   price: "65,00"
@@ -184,8 +187,8 @@ ticketsOffers:
   validFrom: "09/09/2017T00:00"
   validThrough: "15/09/2017T23:59"
   disabled: true
-  # soldOut: true
-  # soldOutText: "Sold Out"
+  soldOut: true
+  soldOutText: "Esgotado"
 
 # Footer
 socialLinks:
