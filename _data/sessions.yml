@@ -18,6 +18,11 @@
   title: "Credenciamento"
   service: true
 
+-
+  id: 999
+  title: "Encerramento e Sorteios"
+  service: true
+
 # Paola Rodrigues
 -
   id: 105
