@@ -1,12 +1,12 @@
-# Raphael Moraes
+# Luis Felipe Souza
 - 
   id: 10
-  name: "Raphael"
-  surname: "Moraes"
-  company: "Movile"
-  title: "Engenheiro de Frontend"
-  bio: "Palmeirense, Engenheiro e Javascript."
-  thumbnailUrl: RaphaelMoraes.jpg
+  name: "Luís Felipe"
+  surname: "Souza"
+  company: "Magnetis"
+  title: ""
+  bio: "Desenvolvedor Front-end desde 2010, hoje trabalha na Magnetis. Gosta de tudo que envolve os produtos digitais, desde UX até o código. É fã de comunidades!"
+  thumbnailUrl: LuisSouza.jpg
   rockstar: false
 
 # Fred Moreira

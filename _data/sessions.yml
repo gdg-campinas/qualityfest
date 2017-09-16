@@ -101,11 +101,11 @@ Nesta apresentação mostrarei os alguns aspectos que podemos e devemos focar a 
   subtype: presentation
   speakers: [25]
 
-#  Raphael Moraes
+# Luís Felipe Souza
 -
   id: 014
-  title: "Frontend QA"
-  description: "Identificando as áreas de melhoria para dar outra cara ao produto final."
+  title: "QDD - Qualidade depois do deploy"
+  description: "Monitorar e melhorar a qualidade das nossas aplicações pode fazer toda a diferença no produto final… mesmo depois do deploy das novas features!"
   subtype: presentation
   speakers: [10]
 
