@@ -60,3 +60,13 @@
   team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/pokemaobr/"}
+- 
+  id: 6
+  name: "Erick"
+  surname: "Augusto"
+  title: "Design"
+  thumbnailUrl: ErickAugusto.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/erickaugustor/"}
+    - {name: "facebook", link: "https://www.facebook.com/Erick.augustor"}
