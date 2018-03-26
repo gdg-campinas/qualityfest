@@ -52,26 +52,26 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Principal"}
- - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/schedule/", text: "Agenda 2017"}
+ - {permalink: "/speakers/", text: "Palestrantes 2017"}
 #  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/team/", text: "Time"}
+ - {permalink: "/team/", text: "Time 2017"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36847465762", text: "Ingressos"}
+ - {link: "https://gdg-campinas.github.io/qualityfest-2017/", text: "QualityFest 2017"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com.br/e/quality-fest-17-tickets-36847465762", text: "Ingressos"}
+ - {link: "https://gdg-campinas.github.io/qualityfest-2017/", text: "QualityFest 2017"}
 
 # Hero Block
 heroImage: "bughipster.jpg"
-heroTitle: "GDG <typeout> QualityFest 2017"
-eventDate: "16 de Setembro de 2017"
+heroTitle: "GDG <typeout> QualityFest 2018"
+eventDate: "Agosto de 2018"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Ingressos"}
+#  - {permalink: "/#tickets", text: "Ingressos"}
 
 # About Block
 # aboutTitle: "About GDG DevFest"
@@ -81,7 +81,8 @@ heroButtons:
 #  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockTitle: "Dados 2017"
+statisticBlockImage: "statistics-2.png"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
  - {count: "8", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
@@ -96,6 +97,13 @@ rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Destaque"
 rockstarSpeakersButtonText: "Veja todos palestrantes"
+
+media:
+  title: "Veja como foi o QualityFest 2017"
+  video: "https://www.youtube.com/embed/BvhQ-Zcy-MU"
+  photos:
+    row: 4
+    total: 16
 
 # Location Block
 # R. Dr. Ricardo Benetton Martins 1000 - Polo II de Alta Tecnologia, Campinas - SP, 13086-510
@@ -201,6 +209,7 @@ footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "https://gdg-campinas.github.io/qualityfest-2017/", text: "QualityFest 2017"}
    - {link: "https://www.meetup.com/gdgcampinas/", text: "Meetup"}
    - {link: "https://www.facebook.com/groups/gdgcampinas/", text: "Grupo Facebook"}
    - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Whatsapp"}

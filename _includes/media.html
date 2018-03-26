@@ -1,0 +1,28 @@
+<!-- Begin Media Section -->
+<section id="media-section" class="media-section">
+  <div class="content-wrapper">
+    <h3>{{ site.media.title }}</h3>
+    <!-- video -->
+    <div class="row" style="background-color: black">
+      <div class="col-lg-8 col-lg-offset-2">
+        <div class="theme-video embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="{{ site.media.video }}"></iframe>
+        </div>
+      </div>
+    </div>
+    <br><br>
+    <!-- photos -->
+    <div class="row">
+      {% for photo in (1..site.media.photos.total) %}
+      {% assign colsize = 12 | divided_by: site.media.photos.row %}
+      {% assign photoname = photo | prepend: '0000' | slice: -4, 4 | append: '.jpg' %}
+      <div class="col-md-{{colsize}} col-sm-{{colsize}}">
+        <div class="thumbnail">
+          <img src="{{site.baseurl}}/img/media/{{photoname}}" style="width:100%" alt="{{photoname}}">
+        </div>
+      </div>
+      {% endfor %}
+      </div>
+  </div>
+</section>
+<!-- End Media Section -->
