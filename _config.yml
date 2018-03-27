@@ -45,23 +45,26 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-# c4pUrl: "https://bit.ly/dfua-c4p"
-# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://goo.gl/forms/HZdUM2UqPVusZci12"
+c4pTitle: "Submeta um conteúdo"
+c4pDescription: "Se tiver interesse em compartilhar seu conhecimento com a comunidade submeta uma PALESTRA, se voluntarie como MENTOR e/ou solicite um estande para a sua COMUNIDADE"
+c4sponsorsUrl: "<sponsor>"
+c4mentorUrl: "<mentor>"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Principal"}
- - {permalink: "/schedule/", text: "Agenda 2017"}
- - {permalink: "/speakers/", text: "Palestrantes 2017"}
+#  - {permalink: "/schedule/", text: "Agenda 2017"}
+#  - {permalink: "/speakers/", text: "Palestrantes 2017"}
 #  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/team/", text: "Time 2017"}
+ - {permalink: "/team/", text: "Time"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://gdg-campinas.github.io/qualityfest-2017/", text: "QualityFest 2017"}
+ - {link: "<staytunned>", text: "Fique por dentro"}
 rightNavigationButtons:
- - {link: "https://gdg-campinas.github.io/qualityfest-2017/", text: "QualityFest 2017"}
+ - {link: "<staytunned>", text: "Fique por dentro"}
 
 # Hero Block
 heroImage: "bughipster.jpg"
@@ -70,7 +73,7 @@ eventDate: "Agosto de 2018"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 heroButtons:
-#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "<staytunned>", text: "Fique por dentro"}
 #  - {permalink: "/#tickets", text: "Ingressos"}
 
 # About Block
@@ -95,8 +98,9 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Destaque"
-rockstarSpeakersButtonText: "Veja todos palestrantes"
+rockstarSpeakersTitle: "Destaques 2017"
+rockstarSpeakersButtonText: "Seja um palestrante em 2018"
+rockstarSpeakersButtonLink: "https://goo.gl/forms/HZdUM2UqPVusZci12"
 
 media:
   title: "Veja como foi o QualityFest 2017"
@@ -104,6 +108,9 @@ media:
   photos:
     row: 4
     total: 16
+  button:
+    text: "QualityFest 2017"
+    link: "https://gdg-campinas.github.io/qualityfest-2017/"
 
 # Location Block
 # R. Dr. Ricardo Benetton Martins 1000 - Polo II de Alta Tecnologia, Campinas - SP, 13086-510
@@ -142,7 +149,7 @@ twitterHomeUrl: "https://twitter.com/gdgcampinas"
 # Partners Block
 organizersTitle: "Realização"
 partnersTitle: "Patrocínio"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"

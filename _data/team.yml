@@ -23,15 +23,6 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/henrique-candella-565a93133/"}
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100014317275586"}
 - 
-  id: 2
-  name: "Deyvis"
-  surname: "Ferreira"
-  title: "Curadoria (Morpheus)"
-  thumbnailUrl: DeyvisFerreira.jpg
-  team: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/deyvisf/"}
-- 
   id: 3
   name: "Rodrigo"
   surname: "Botti"
@@ -41,32 +32,3 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-botti/"}
     - {name: "facebook", link: "https://www.facebook.com/rodrigo.botti.9"}    
-- 
-  id: 4
-  name: "Renato"
-  surname: "Freire"
-  title: "Website (Aragorn)"
-  thumbnailUrl: RenatoFreire.jpg
-  team: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/renatorfr/"}
-    - {name: "facebook", link: "https://www.facebook.com/renatorfr"}
-- 
-  id: 5
-  name: "Rodrigo"
-  surname: "Cardoso"
-  title: "Apresentador (Pokemao)"
-  thumbnailUrl: RodrigoCardoso.jpg
-  team: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pokemaobr/"}
-- 
-  id: 6
-  name: "Erick"
-  surname: "Augusto"
-  title: "Design"
-  thumbnailUrl: ErickAugusto.jpg
-  team: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/erickaugustor/"}
-    - {name: "facebook", link: "https://www.facebook.com/Erick.augustor"}

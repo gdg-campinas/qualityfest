@@ -22,7 +22,13 @@
         </div>
       </div>
       {% endfor %}
-      </div>
+    </div>
+    <!-- link -->
+    {% if site.media.button %}
+    <div class="row">
+      <a href="{{ site.media.button.link }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.media.button.text }}</a>
+    </div>
+    {% endif %}
   </div>
 </section>
 <!-- End Media Section -->
