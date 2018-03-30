@@ -45,10 +45,10 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://goo.gl/forms/HZdUM2UqPVusZci12"
+c4pUrl: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
 c4pTitle: "Submeta um conteúdo"
 c4pDescription: "Se tiver interesse em compartilhar seu conhecimento com a comunidade submeta uma PALESTRA, se voluntarie como MENTOR e/ou solicite um estande para a sua COMUNIDADE"
-c4sponsorsUrl: "mailto:contato@gdg-campinas.com.br?Subject=%5BPatrocinio%5D%20QualityFest%202018"
+c4sponsorsUrl: "mailto:contato@gdg-campinas.org?Subject=%5BPatrocinio%5D%20QualityFest%202018"
 c4mentorUrl: "<mentor>"
 
 
@@ -62,9 +62,9 @@ navigationLinks:
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "<staytunned>", text: "Fique por dentro"}
+ - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
 rightNavigationButtons:
- - {link: "<staytunned>", text: "Fique por dentro"}
+ - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
 
 # Hero Block
 heroImage: "bughipster.jpg"
@@ -73,8 +73,9 @@ eventDate: "Agosto de 2018"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 heroButtons:
- - {link: "<staytunned>", text: "Fique por dentro"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4c70hCS5yr3tfISN9WLz4HuYKswSsVZs7Bb1HAuf9j78ZuQ/viewform", text: "Fique por dentro"}
 #  - {permalink: "/#tickets", text: "Ingressos"}
+heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
 
 # About Block
 # aboutTitle: "About GDG DevFest"
