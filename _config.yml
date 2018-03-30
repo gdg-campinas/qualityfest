@@ -73,7 +73,7 @@ eventDate: "Agosto de 2018"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 heroButtons:
- - {link: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2", text: "Fique por dentro"}
+ - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
 #  - {permalink: "/#tickets", text: "Ingressos"}
 heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
 
@@ -101,7 +101,7 @@ rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Destaques 2017"
 rockstarSpeakersButtonText: "Seja um palestrante em 2018"
-rockstarSpeakersButtonLink: "https://goo.gl/forms/HZdUM2UqPVusZci12"
+rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
 
 media:
   title: "Veja como foi o QualityFest 2017"
