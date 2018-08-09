@@ -114,22 +114,22 @@ media:
     link: "https://gdg-campinas.github.io/qualityfest-2017/"
 
 # Location Block
-# R. Dr. Ricardo Benetton Martins 1000 - Polo II de Alta Tecnologia, Campinas - SP, 13086-510
-# Pólis de Tecnologia
+# Location Block
+# Polis de tecnologia
 locationBlockTitle: "Localização"
-eventLocationName: "Weme"
-eventLocationLink: "http://www.weme.nu/"
-eventStreetAddress: "Av. Dr. Jesuíno Marcondes Machado, 630"
+eventLocationName: "Pólis de Tecnologia"
+eventLocationLink: "http://polisdetecnologia.com.br/index.html"
+eventStreetAddress: "R. Dr. Ricardo Benetton Martins, 1000"
 eventAddressLocality: "Campinas"
-eventAddressLocalityRegion: "Nova Campinas"
-eventPostalCode: "13092-108"
+eventAddressLocalityRegion: "Parque II do Polo de Alta Tecnologia"
+eventPostalCode: "13086-510"
 eventAddressCountry: "Brasil"
 eventStartTime: ""
 eventDoorTime: ""
 eventEndTime: ""
-eventPlaceCoordinates: "-22.901004,-47.042149"
-mapCenterCoordinates: "-22.901004,-47.042149"
-mapMobileCenterCoordinates: "-22.901004,-47.042149"
+eventPlaceCoordinates: "-22.816986, -47.044942"
+mapCenterCoordinates: "-22.816986, -47.044942"
+mapMobileCenterCoordinates: "-22.816986, -47.044942"
 
 # Venue Block
 venueBlockTitle: "Local"
@@ -137,8 +137,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Weme"
-venueFeatures: ["Campinas"]
+venueTitle: "Pólis de Tecnologia"
+venueFeatures: ["Auditórios", "Anfiteatros"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
