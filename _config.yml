@@ -85,13 +85,13 @@ heroButtons:
 #  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockTitle: "Dados 2017"
+statisticBlockTitle: "Dados"
 statisticBlockImage: "statistics-2.png"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
+ - {count: "200", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
  - {count: "8", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
- - {count: "18", specialCharacter: "", info: "palestrantes", detail: "referências no assunto"}
- - {count: "2", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
+ - {count: "8", specialCharacter: "", info: "palestrantes", detail: "referências no assunto"}
+ - {count: "1", specialCharacter: "", info: "trilha", detail: "de palestras e cases"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
