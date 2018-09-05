@@ -56,7 +56,7 @@ c4mentorUrl: "<mentor>"
 navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/schedule/", text: "Agenda 2017"}
-#  - {permalink: "/speakers/", text: "Palestrantes 2017"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
 #  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Time"}
 #  - {permalink: "/logistics/", text: "Logistics"}
@@ -99,7 +99,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Destaques 2017"
+rockstarSpeakersTitle: "Destaques"
 rockstarSpeakersButtonText: "Seja um palestrante em 2018"
 rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
 
