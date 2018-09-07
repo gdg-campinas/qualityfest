@@ -32,14 +32,6 @@
   complexity: Básico
 
 -
-  id: 301
-  title: "Flaky tests: O flakiness que há em você!"
-  description: "Você ja pensou que quando a sua suite de testes começa a apresentar falhas sem motivos, a causa disso pode estar em nós mesmos? Por que isso acontece? Nessa palestra, baseados em uma apresentação do selenium conf de 2017, nós iremos abordar essa questão e boas maneiras que aprendemos para tentar lidar com isso e mitigar esse problema."
-  subtype: presentation
-  speakers: [002]
-  complexity: Intermediário
-
--
   id: 401
   title: "O que o QA deve fazer para \"sobreviver\" no DevOps"
   description: "Estamos cada vez mais modificando a cultura empresarial para adaptar ao DEVOPS. Mas ai quais são os desafios, mudanças de mentalidade e o que fazer para que os profissionais de Qualidade \"sobrevivam\" a esse momento? Vamos conversar e discutir sobre isso juntos?"

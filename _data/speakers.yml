@@ -11,18 +11,6 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/filipeclopes/" }
 
-# Andre Mendes
--
-  id: 002
-  name: "André"
-  surname: "Mendes"
-  company: "Concrete"
-  title: "QA"
-  bio: "Carioca, Flamenguista e QA na Concrete do Rio de Janeiro. Sou muito defensor das comunidades locais e da capacitação de profissionais. Co-fundei o finado Grupo de Testes Carioca e atualmente organizador de meetups do Ministry of Testing. Não mordo."
-  thumbnailUrl: AndreMendes.jpg
-  rockstar: true
-  social: []
-
 # Jeremias Araujo
 -
   id: 003
