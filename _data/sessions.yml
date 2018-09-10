@@ -49,3 +49,11 @@ Pretendo fazer uma demo rodando em ambiente local e também em uma infraestrutur
   subtype: presentation
   speakers: [004]
   complexity: Intermediário
+
+-
+  id: 601
+  title: "Mindset do QA em diferentes contextos"
+  description: "Nessa palestra irei falar sobre a forma de pensar do testador em diferentes contextos, por exemplo, Tradicional, Ágil e Pós Ágil. Dado que há muitos testadores em momento de transição, é de extrema importância que todos saibam quais são as principais diferenças e também ser capaz de diferenciar as principais características de cada contexto."
+  subtype: presentation
+  speakers: [005]
+  complexity: Básico

@@ -38,3 +38,16 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/flaap/" }
     - { name: "twitter", link: "https://twitter.com/pimentaflavio" }
     - { name: "github", link: "http://github.com/flap" }
+
+# Julio Lima
+-
+  id: 005
+  name: "Júlio"
+  surname: "de Lima"
+  company: "Capco"
+  title: "QA Lead"
+  bio: "Júlio de Lima é QA Lead na Capco, possui experiência em testes envolvendo aplicações Web, Desktop, Mobile e serviços. É formado em Tecnologia em Informática e especialista em Docência no Ensino Superior e atua como professor em cursos de pós graduação em universidades do Paraná e Manaus. Ajudou mais de 14 empresas a implementar testes e automação usando ferramentas privadas e open-source usando PHP, Java, Ruby e Javascript. É palestrante assíduo em diversos eventos de tecnologia, disseminando a disciplina de testes de software, além de ser o co-fundador do meetup garoaQA."
+  thumbnailUrl: JulioLima.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/juliodelimas/" }
