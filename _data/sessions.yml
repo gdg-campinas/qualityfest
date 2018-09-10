@@ -57,3 +57,11 @@ Pretendo fazer uma demo rodando em ambiente local e também em uma infraestrutur
   subtype: presentation
   speakers: [005]
   complexity: Básico
+
+-
+  id: 701
+  title: "O que eu aprendi atuando com Automação de Testes e DevOps para uma plataforma baseada em Micro Serviços"
+  description: "Vou falar sobre a experiência em automatizar testes integrados e unitários para um projeto onde estamos desenvolvendo uma plataforma baseada em Micro Serviços. Quais estratégias e técnicas de testes usar, como controlar os dados e massa de testes e mudanças de paradigmas."
+  subtype: presentation
+  speakers: [006]
+  complexity: Intermediário

@@ -51,3 +51,16 @@
   rockstar: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/juliodelimas/" }
+
+# Fernando Papini
+-
+  id: 006
+  name: "Fernando"
+  surname: "Papini"
+  company: "Dotz e QA Ninja"
+  title: "QA Lead e Founder"
+  bio: "Especialista em testes automatizados e entrega contínua. 15 anos atuando em testes e implantação de software em empresas do segmento financeiro, telecomunicações, marketing digital e programas de fidelização de clientes."
+  thumbnailUrl: FernandoPapini.jpg
+  rockstar: false
+  social:
+    - { name: "site", link: "https://about.me/papito" }
