@@ -1,6 +1,4 @@
 -
-  group: "Patrocinadores 2017"
+  group: "Junior"
   elements:
-    - {name: "HBSIS", description: "HBSIS", link: "http://www.hbsis.com.br/", imageUrl: "hbsis.png"}
-    - {name: "Weme", description: "Weme", link: "http://www.weme.nu/", imageUrl: "weme.png", width: "70%"}    
-    - {name: "iFood", description: "iFood", link: "https://www.ifood.com.br", imageUrl: "ifood.png"}
+    - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png"}

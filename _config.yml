@@ -189,10 +189,10 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "26/08/2018T00:00"
   validThrough: "15/09/2018T23:59"
-  # soldOut: true
-  # soldOutText: "Esgotado"
+  soldOut: true
+  soldOutText: "Esgotado"
   # disabled: true
-  featured: true
+  # featured: true
  -
   name: "Late Bird"
   price: "220,00"
@@ -204,9 +204,10 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "16/09/2018T00:00"
   validThrough: "23/09/2018T23:59"
-  disabled: true
+  # disabled: true
   # soldOut: true
   # soldOutText: "Esgotado"
+  featured: true
  -
   name: "Apenas Camiseta"
   price: "40,00"
