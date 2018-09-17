@@ -68,28 +68,6 @@
   social:
     - { name: "site", link: "https://about.me/papito" }
 
-
-# Bruno Rocha
--
-  id: 007
-  name: "Bruno"
-  surname: "Rocha"
-  company: "Red Hat"
-  title: "Senior Quality Engineer"
-  bio: "Bruno Rocha é programador com mais de 15 anos de experiência em desenvolvimento de software em diversas linguagens e plataformas. 
-Bastante envolvido com Software Livre mantém alguns projetos open source com foco em Python 
-e desenvolvimento web, é membro da Python Software Foundation e ativamente envolvido com a 
-comunidade Python brasileira, autor de um livro sobre Python e desenvolvimento web e 
-professor no CursoDePython.com.br e também atua como Software Enginner no time de 
-qualidade da Red Hat.
-Além de se dedicar a Python é um entusiasta da linguagem Rust e acredita que o futuro é brilhante! 
-ops.. quer dizer, enferrujado! E tem se dedicado a aprender e repassar o conhecimento de Rust para os amigos Pythonistas."
-  thumbnailUrl: BrunoRocha.jpg
-  rockstar: false
-  social:
-    - { name: "twitter", link: "http://twitter.com/rochacbruno" }
-    - { name: "github", link: "http://github.com/rochacbruno" }
-
 # Claudenir Freitas
 -
   id: 008
@@ -123,7 +101,7 @@ ops.. quer dizer, enferrujado! E tem se dedicado a aprender e repassar o conheci
   name: "Wilson"
   surname: "Martins Ribeiro Filho"
   company: "CI&T"
-  title: "QA Engineer"
+  title: "Scrum Master & QA Specialist"
   bio: "Mais de 6 anos de experiência em TI em projetos internacionais, especializado em teste de software (manual, automatizado e performance). Gestão de projetos, pessoas e liderança técnica, atuando em todo o ciclo de vida de teste (Planejamento & Controle, Construção,Execução, Gestão de Defeitos e Delivery)."
   thumbnailUrl: WilsonMartins.jpg
   rockstar: false

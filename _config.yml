@@ -173,10 +173,10 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "08/08/2018T00:00"
   validThrough: "25/08/2018T23:59"
-  # soldOut: true
-  # soldOutText: "Esgotado"
+  soldOut: true
+  soldOutText: "Esgotado"
   # disabled: true
-  featured: true
+  # featured: true
  -
   name: "Ticket"
   price: "150,00"
@@ -191,7 +191,8 @@ ticketsOffers:
   validThrough: "15/09/2018T23:59"
   # soldOut: true
   # soldOutText: "Esgotado"
-  disabled: true
+  # disabled: true
+  featured: true
  -
   name: "Late Bird"
   price: "220,00"

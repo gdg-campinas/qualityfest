@@ -58,15 +58,6 @@ Pretendo fazer uma demo rodando em ambiente local e também em uma infraestrutur
   speakers: [006]
   complexity: Intermediário
 
-# Bruno Rocha
--
-  id: 801
-  title: "Estratégias de QE com Python e Ansible"
-  description: "Qualidade de Software é a area que se aplica a todo tipo de projeto independente da linguagem ou tecnologia envolvida. Python tem se mostrado um canivete suiço nas mãos de QEs pois possibilita testing e analise de cobertura em diversas plataformas. Quero mostrar como usamos Python para garantir a qualidade na Red Hat e como o Ansible (ferramenta escrita em Python) pode ajudar a automatizar a infraestrutura de testes."
-  subtype: presentation
-  speakers: [007]
-  complexity: Intermediário
-
 # Claudenir Freitas
 -
   id: 901
