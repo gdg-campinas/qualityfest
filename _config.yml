@@ -220,8 +220,8 @@ ticketsOffers:
   validFrom: "08/08/2018T00:00"
   validThrough: "17/09/2018T23:59"
   # disabled: true
-  # soldOut: true
-  # soldOutText: "Esgotado"
+  soldOut: true
+  soldOutText: "Esgotado"
 
 # Footer
 socialLinks:
