@@ -51,17 +51,80 @@ Pretendo fazer uma demo rodando em ambiente local e também em uma infraestrutur
   complexity: Intermediário
 
 -
-  id: 601
-  title: "Mindset do QA em diferentes contextos"
-  description: "Nessa palestra irei falar sobre a forma de pensar do testador em diferentes contextos, por exemplo, Tradicional, Ágil e Pós Ágil. Dado que há muitos testadores em momento de transição, é de extrema importância que todos saibam quais são as principais diferenças e também ser capaz de diferenciar as principais características de cada contexto."
-  subtype: presentation
-  speakers: [005]
-  complexity: Básico
-
--
   id: 701
   title: "O que eu aprendi atuando com Automação de Testes e DevOps para uma plataforma baseada em Micro Serviços"
   description: "Vou falar sobre a experiência em automatizar testes integrados e unitários para um projeto onde estamos desenvolvendo uma plataforma baseada em Micro Serviços. Quais estratégias e técnicas de testes usar, como controlar os dados e massa de testes e mudanças de paradigmas."
   subtype: presentation
   speakers: [006]
   complexity: Intermediário
+
+# Bruno Rocha
+-
+  id: 801
+  title: "Estratégias de QE com Python e Ansible"
+  description: "Qualidade de Software é a area que se aplica a todo tipo de projeto independente da linguagem ou tecnologia envolvida. Python tem se mostrado um canivete suiço nas mãos de QEs pois possibilita testing e analise de cobertura em diversas plataformas. Quero mostrar como usamos Python para garantir a qualidade na Red Hat e como o Ansible (ferramenta escrita em Python) pode ajudar a automatizar a infraestrutura de testes."
+  subtype: presentation
+  speakers: [007]
+  complexity: Intermediário
+
+# Claudenir Freitas
+-
+  id: 901
+  title: "Como garantir a qualidade de sua API?"
+  description: "Muito se fala em APIs dado o contexto de integrações e afins... mas, como conseguimos a garantir a qualidade na entrega de nossas APIs, eis o ponto que será abordado nesta palestra."
+  subtype: presentation
+  speakers: [008]
+  complexity: Avançado
+
+# Bruno Abreu
+-
+  id: 1001
+  title: "Uma abordagem simplificada e eficaz para testes exploratórios"
+  description: "Aplicar testes exploratórios em produtos digitais pode ser uma atividade extremamente divertida e bem sucedida, desde que façamos o uso das técnicas certas nos momentos certos. Nesta breve conversa, convidamos você para um passeio bem descontraído onde apresentaremos uma abordagem eficaz e muito fácil de ser recordada, por ser baseada em situações do seu cotidiano."
+  subtype: presentation
+  speakers: [009]
+  complexity: "Todos"
+
+#  Elias Nogueira - Keynote
+-
+  id: 1101
+  title: "Keynote"
+  description: "Keynote"
+  subtype: keynote
+  speakers: [010]
+
+# Wilson Martins Ribeiro Filho
+-
+  id: 1201
+  title: "Métricas de Qualidade em um contexto Ágil"
+  description: "Pare de gerar dashboards e gráficos que não agregam valor para seus produtos. Se você trabalha em um contexto de entregas iterativas com abordagens ágeis e gostaria de materializar a qualidade do seu produto e de suas entregas em números, e melhor, como interpretar esses números e gerar planos de ação efetivos,a palestra \"Métricas de qualidade em um contexto ágil\" é pra você! 
+Principais tópicos abordados: 
+ - Cobertura assertiva de Testes Automatizados 
+ - Medindo a eficiência dos Testes Manuais 
+ - Retrabalho em um contexto de entregas iterativas 
+ - Priorização de causas-raiz"
+  subtype: presentation
+  speakers: [011]
+  complexity: Intermediário
+
+# Carla Crude
+-
+  id: 1301
+  title: "Testando software em diferentes linguagens!"
+  description: "Por que nos prendermos a testar com um único caminho? Aprendi testar utilizando o set mágico (ruby+capybara+selenium). O mesmo funciona para testes e2e, mas a pergunta é: Tenho uma aplicação em angular. Seria melhor utilizar protractor? Nietzsche dizia: \"A verdade é, também, aquilo que parte dos “fortes”, é fruto de sua vontade de potência\".  Com vontade e estudo podemos utilizar a mesma linguagem da aplicação que estamos testando e isto vai aumentar nosso entendimento do software e proximidade com os desenvolveres, formando um TIME único e integrado."
+  subtype: presentation
+  speakers: [012]
+  complexity: Básico
+
+# Ariane Izac
+-
+  id: 1401
+  title: "O que eu deveria saber antes de testar performance?"
+  description: "Estou em um projeto que o foco é testar performance, e agora?
+Quais estratégias de teste precisamos analisar antes de colocar a mão na massa?
+Quais são os desafios que enfrentaremos?
+O que eu preciso saber antes de começar a \"apanhar\" de testes de performance?
+A ideia é compartilhar os desafios e as soluções encontradas em um projeto cujo objetivo era melhorar a performance de um sistema."
+  subtype: presentation
+  speakers: [013]
+  complexity: Básico

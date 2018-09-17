@@ -1,3 +1,19 @@
+# Elias Nogueira
+- 
+  id: 010
+  name: "Elias"
+  surname: "Nogueira"
+  company: "Sicredi"
+  title: "QA Engineer | Agile Coach"
+  bio: "Eu ajudo pessoas e empresas a criar softwares com uma alta qualidade para que eles tenham sempre com maior qualidade do que a concorrência.
+  É QA Engineer e Agile Coach no Sicredi e Professor de Pós Graduação na Unisinos/RS e Univali/SC.
+  Atuante na comunidade de desenvolvimento advoga entre todas as pessoas da área sobre a importância da qualidade e teste de software em grupos locais em diversas regiões. Já ministrou palestras nos principais eventos do Brasil como The Developers Conference, Scrum Gathering, JavaOne, Android DevConf, Campus Party, entre outros.
+  Organiza a Trilha Testes e DevTest do The Developers Conference e é organizador do Agile Coach Meetup Porto Alegre e do GDG Porto Alegre."
+  thumbnailUrl: EliasNogueira.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", linkedin: "https://www.linkedin.com/in/eliasnogueira/" }
+
 # Filipe Caldas Lopes
 -
   id: 001
@@ -39,19 +55,6 @@
     - { name: "twitter", link: "https://twitter.com/pimentaflavio" }
     - { name: "github", link: "http://github.com/flap" }
 
-# Julio Lima
--
-  id: 005
-  name: "Júlio"
-  surname: "de Lima"
-  company: "Capco"
-  title: "QA Lead"
-  bio: "Júlio de Lima é QA Lead na Capco, possui experiência em testes envolvendo aplicações Web, Desktop, Mobile e serviços. É formado em Tecnologia em Informática e especialista em Docência no Ensino Superior e atua como professor em cursos de pós graduação em universidades do Paraná e Manaus. Ajudou mais de 14 empresas a implementar testes e automação usando ferramentas privadas e open-source usando PHP, Java, Ruby e Javascript. É palestrante assíduo em diversos eventos de tecnologia, disseminando a disciplina de testes de software, além de ser o co-fundador do meetup garoaQA."
-  thumbnailUrl: JulioLima.jpg
-  rockstar: true
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/juliodelimas/" }
-
 # Fernando Papini
 -
   id: 006
@@ -64,3 +67,96 @@
   rockstar: false
   social:
     - { name: "site", link: "https://about.me/papito" }
+
+
+# Bruno Rocha
+-
+  id: 007
+  name: "Bruno"
+  surname: "Rocha"
+  company: "Red Hat"
+  title: "Senior Quality Engineer"
+  bio: "Bruno Rocha é programador com mais de 15 anos de experiência em desenvolvimento de software em diversas linguagens e plataformas. 
+Bastante envolvido com Software Livre mantém alguns projetos open source com foco em Python 
+e desenvolvimento web, é membro da Python Software Foundation e ativamente envolvido com a 
+comunidade Python brasileira, autor de um livro sobre Python e desenvolvimento web e 
+professor no CursoDePython.com.br e também atua como Software Enginner no time de 
+qualidade da Red Hat.
+Além de se dedicar a Python é um entusiasta da linguagem Rust e acredita que o futuro é brilhante! 
+ops.. quer dizer, enferrujado! E tem se dedicado a aprender e repassar o conhecimento de Rust para os amigos Pythonistas."
+  thumbnailUrl: BrunoRocha.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "http://twitter.com/rochacbruno" }
+    - { name: "github", link: "http://github.com/rochacbruno" }
+
+# Claudenir Freitas
+-
+  id: 008
+  name: "Claudenir"
+  surname: "Freitas"
+  company: "Sensedia"
+  title: "Software Engineer"
+  bio: "Desenvolvedor de software procurando sempre aperfeiçoar seus conhecimentos. Graduado em Ciência da Computação (USC - Bauru/SP), Pós-graduado em Desenvolvimento Web (UFSCar - São Carlos/SP), \"matutando\" um Mestrado e Skatista Amador (patrocinado pela Light SKT)."
+  thumbnailUrl: ClaudenirFreitas.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/claudenirfreitas/" }
+    - { name: "twitter", link: "http://twitter.com/claudenir_cf" }
+
+# Bruno Abreu
+-
+  id: 009
+  name: "Bruno"
+  surname: "Abreu"
+  company: "Sofist"
+  title: "CEO"
+  bio: "Bruno é CEO e fundador da Sofist, empresa especializada em redução e prevenção de problemas em produtos digitais por meio de testes profissionais de software. Graduado em Ciência da Computação pela UFMG e pós-graduado na mesma área pela UNICAMP, tem mais de 14 anos de experiência e atuação na área de qualidade de software, já tendo participado da entrega de projetos nacionais e internacionais para mais de 150 empresas."
+  thumbnailUrl: BrunoAbreu.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/brunoabreu2/" }
+
+# Wilson Martins Ribeiro Filho
+-
+  id: 011
+  name: "Wilson"
+  surname: "Martins Ribeiro Filho"
+  company: "CI&T"
+  title: "QA Engineer"
+  bio: "Mais de 6 anos de experiência em TI em projetos internacionais, especializado em teste de software (manual, automatizado e performance). Gestão de projetos, pessoas e liderança técnica, atuando em todo o ciclo de vida de teste (Planejamento & Controle, Construção,Execução, Gestão de Defeitos e Delivery)."
+  thumbnailUrl: WilsonMartins.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://br.linkedin.com/in/wilsonribeiro91" }
+
+# Carla Crude
+-
+  id: 012
+  name: "Carla"
+  surname: "Crude"
+  company: "Concrete"
+  title: "Analista de Qualidade de Software"
+  bio: "Sou PhD em Imunologia, mas pretendia mudar minha carreira por muito tempo.
+Meu interesse em computação começou por frequentar um curso de bioinformática durante meus estudos de PhD e, desde início de 2017 trabalho como Analista de Qualidade de Software.
+Estou sempre à procura de novos desafios e sou realmente apaixonado por compartilhar conhecimento com as pessoas.
+Sou fundadora do QA Sampa meeting: http://qasampameeting.com.br
+Para me conhecer melhor: https://about.me/carla_crude."
+  thumbnailUrl: CarlaCrude.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/carlacrude/" }
+
+# Ariane Izac
+-
+  id: 013
+  name: "Ariane"
+  surname: "Izac"
+  company: "Matera Systems"
+  title: "Analista de Teste"
+  bio: "Filha de peixe (jornalista) peixinho sou. Sou blogueira na categoria Tecnologia no blog da MATERA e webineira também.
+E para não negar minha paixão, tenho um grupo no LinkedIn para reunir assuntos relacionados a testes: Diário de uma paixão: Teste de Software."
+  thumbnailUrl: ArianeIzac.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/ariane-izac-b9a6531b/" }
