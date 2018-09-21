@@ -2,3 +2,4 @@
   group: "Junior"
   elements:
     - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png"}
+    - {name: "Sofist", description: "Sofist", link: "https://www.sofist.com.br/", imageUrl: "sofist.png", width: "180%"}
