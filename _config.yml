@@ -100,8 +100,8 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Destaques"
-rockstarSpeakersButtonText: "Seja um palestrante em 2018"
-rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
+rockstarSpeakersButtonText: "Veja todos os palestrantes"
+# rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
 
 media:
   title: "Veja como foi o QualityFest 2017"
