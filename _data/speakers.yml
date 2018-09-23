@@ -138,3 +138,17 @@ E para não negar minha paixão, tenho um grupo no LinkedIn para reunir assuntos
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/ariane-izac-b9a6531b/" }
+
+# Mariana Moises
+-
+  id: 014
+  name: "Mariana Elisa"
+  surname: "Moisés"
+  company: "Lenovo Indaiatuba"
+  title: "QA Engineer"
+  bio: "Pós Graduada com MBA em Gerenciamento de Projetos(PMI), certificada CTFL e CTFL-AT pelo BSTQB, com grande experiência em testes manuais e automatizados, de API, Mobile e Web. Entusiasta de DevOps e mulheres na tecnologia, atualmente sou uma das organizadoras do QA Ladies."
+  thumbnailUrl: MarianaMoises.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/mariana-elisa-moises/" }
+

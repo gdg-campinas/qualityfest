@@ -119,3 +119,12 @@ A ideia é compartilhar os desafios e as soluções encontradas em um projeto cu
   subtype: presentation
   speakers: [013]
   complexity: Básico
+
+# Mariana Moisés
+-
+  id: 1501
+  title: "Testes de Regressão Visual - Dando um upgrade nos seus teste de UI! "
+  description: "Vamos falar sobre os Testes de Regressão Visual, como eles podem auxiliar no processo de testes na camada de UI, ressaltando sua importância como complemento á automação de testes e suas vantagens."
+  subtype: presentation
+  speakers: [014]
+  complexity: Básico
