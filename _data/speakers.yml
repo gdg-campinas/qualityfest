@@ -152,3 +152,27 @@ E para não negar minha paixão, tenho um grupo no LinkedIn para reunir assuntos
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/mariana-elisa-moises/" }
 
+# Bruna Rezende
+-
+  id: 015
+  name: "Bruna Gonçalves"
+  surname: "Rezende"
+  company: "Sensedia"
+  title: "Scrum Master"
+  bio: "Mais de 7 anos de experiência na área de Qualidade de software, com trajetória principalmente em sistemas web. Formada em Ciências de Computação pela USP São Carlos, possui especialização em Engenharia de Software pela UNICAMP e MBA em Gerenciamento de projetos pela USP. Atualmente é Scrum Master do time do produto API Plataform na Sensedia."
+  thumbnailUrl: BrunaRezende.jpg
+  rockstar: false
+  social: []
+
+# Renato Poulicer
+-
+  id: 016
+  name: "Renato"
+  surname: "Poulicer"
+  company: "Logicalis"
+  title: "UI/UX Designer"
+  bio: ""
+  thumbnailUrl: RenatoPoulicer.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/renatopoulicer/" }

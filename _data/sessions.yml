@@ -58,13 +58,13 @@ Pretendo fazer uma demo rodando em ambiente local e também em uma infraestrutur
   speakers: [006]
   complexity: Intermediário
 
-# Claudenir Freitas
+# Claudenir Freitas + Bruna Rezende
 -
   id: 901
   title: "Como garantir a qualidade de sua API?"
   description: "Muito se fala em APIs dado o contexto de integrações e afins... mas, como conseguimos a garantir a qualidade na entrega de nossas APIs, eis o ponto que será abordado nesta palestra."
   subtype: presentation
-  speakers: [008]
+  speakers: [008, 015]
   complexity: Avançado
 
 # Bruno Abreu
@@ -120,11 +120,11 @@ A ideia é compartilhar os desafios e as soluções encontradas em um projeto cu
   speakers: [013]
   complexity: Básico
 
-# Mariana Moisés
+# Mariana Moisés + Renato Poulicer
 -
   id: 1501
   title: "Testes de Regressão Visual - Dando um upgrade nos seus teste de UI! "
   description: "Vamos falar sobre os Testes de Regressão Visual, como eles podem auxiliar no processo de testes na camada de UI, ressaltando sua importância como complemento á automação de testes e suas vantagens."
   subtype: presentation
-  speakers: [014]
+  speakers: [014, 016]
   complexity: Básico
