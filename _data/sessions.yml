@@ -32,14 +32,6 @@
   complexity: Básico
 
 -
-  id: 401
-  title: "O que o QA deve fazer para \"sobreviver\" no DevOps"
-  description: "Estamos cada vez mais modificando a cultura empresarial para adaptar ao DEVOPS. Mas ai quais são os desafios, mudanças de mentalidade e o que fazer para que os profissionais de Qualidade \"sobrevivam\" a esse momento? Vamos conversar e discutir sobre isso juntos?"
-  subtype: presentation
-  speakers: [003]
-  complexity: Básico
-
--
   id: 501
   title: "Metralhando o próprio produto com tudo!"
   description: "Os testes de performance muitas vezes negligenciados são importantes e podem fazer a empresa economizar muito em infraestrutura e na experiência de uso do cliente.
@@ -83,29 +75,6 @@ Pretendo fazer uma demo rodando em ambiente local e também em uma infraestrutur
   description: "Keynote"
   subtype: keynote
   speakers: [010]
-
-# Wilson Martins Ribeiro Filho
--
-  id: 1201
-  title: "Métricas de Qualidade em um contexto Ágil"
-  description: "Pare de gerar dashboards e gráficos que não agregam valor para seus produtos. Se você trabalha em um contexto de entregas iterativas com abordagens ágeis e gostaria de materializar a qualidade do seu produto e de suas entregas em números, e melhor, como interpretar esses números e gerar planos de ação efetivos,a palestra \"Métricas de qualidade em um contexto ágil\" é pra você! 
-Principais tópicos abordados: 
- - Cobertura assertiva de Testes Automatizados 
- - Medindo a eficiência dos Testes Manuais 
- - Retrabalho em um contexto de entregas iterativas 
- - Priorização de causas-raiz"
-  subtype: presentation
-  speakers: [011]
-  complexity: Intermediário
-
-# Carla Crude
--
-  id: 1301
-  title: "Testando software em diferentes linguagens!"
-  description: "Por que nos prendermos a testar com um único caminho? Aprendi testar utilizando o set mágico (ruby+capybara+selenium). O mesmo funciona para testes e2e, mas a pergunta é: Tenho uma aplicação em angular. Seria melhor utilizar protractor? Nietzsche dizia: \"A verdade é, também, aquilo que parte dos “fortes”, é fruto de sua vontade de potência\".  Com vontade e estudo podemos utilizar a mesma linguagem da aplicação que estamos testando e isto vai aumentar nosso entendimento do software e proximidade com os desenvolveres, formando um TIME único e integrado."
-  subtype: presentation
-  speakers: [012]
-  complexity: Básico
 
 # Ariane Izac
 -

@@ -27,19 +27,6 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/filipeclopes/" }
 
-# Jeremias Araujo
--
-  id: 003
-  name: "Jeremias"
-  surname: "Araújo"
-  company: "Accenture"
-  title: "Consultor"
-  bio: "Jeremias Araújo, 12 anos de vivência em Testes e Qualidade de Software. Um dos grandes incentivadores da área de Testes e Qualidade de Software em João Pessoa, criando e mantendo o GUTS-PB. Atualmente exerço cargo de Consultor de Testes na Accenture em Recife, mas com passagens pelo Tribunal de Justiça/Indra - C.E.S.A.R - UFPE e Motorola."
-  thumbnailUrl: JeremiasAraujo.jpg
-  rockstar: true
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/jeremias-araujo-ctfl-32417539/" }
-
 # Flavio Pimenta
 -
   id: 004
@@ -64,7 +51,7 @@
   title: "QA Lead e Founder"
   bio: "Especialista em testes automatizados e entrega contínua. 15 anos atuando em testes e implantação de software em empresas do segmento financeiro, telecomunicações, marketing digital e programas de fidelização de clientes."
   thumbnailUrl: FernandoPapini.jpg
-  rockstar: false
+  rockstar: true
   social:
     - { name: "site", link: "https://about.me/papito" }
 
@@ -94,36 +81,6 @@
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/brunoabreu2/" }
-
-# Wilson Martins Ribeiro Filho
--
-  id: 011
-  name: "Wilson"
-  surname: "Martins Ribeiro Filho"
-  company: "Zup Innovation"
-  title: "Scrum Master & QA Specialist"
-  bio: "Mais de 6 anos de experiência em TI em projetos internacionais, especializado em teste de software (manual, automatizado e performance). Gestão de projetos, pessoas e liderança técnica, atuando em todo o ciclo de vida de teste (Planejamento & Controle, Construção,Execução, Gestão de Defeitos e Delivery)."
-  thumbnailUrl: WilsonMartins.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://br.linkedin.com/in/wilsonribeiro91" }
-
-# Carla Crude
--
-  id: 012
-  name: "Carla"
-  surname: "Crude"
-  company: "Concrete"
-  title: "Analista de Qualidade de Software"
-  bio: "Sou PhD em Imunologia, mas pretendia mudar minha carreira por muito tempo.
-Meu interesse em computação começou por frequentar um curso de bioinformática durante meus estudos de PhD e, desde início de 2017 trabalho como Analista de Qualidade de Software.
-Estou sempre à procura de novos desafios e sou realmente apaixonado por compartilhar conhecimento com as pessoas.
-Sou fundadora do QA Sampa meeting: http://qasampameeting.com.br
-Para me conhecer melhor: https://about.me/carla_crude."
-  thumbnailUrl: CarlaCrude.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/carlacrude/" }
 
 # Ariane Izac
 -
