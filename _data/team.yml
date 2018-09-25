@@ -31,4 +31,24 @@
   team: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-botti/"}
-    - {name: "facebook", link: "https://www.facebook.com/rodrigo.botti.9"}    
+    - {name: "facebook", link: "https://www.facebook.com/rodrigo.botti.9"}
+
+- 
+  id: 4
+  name: "Deyvis"
+  surname: "Ferreira"
+  title: "Coordenador de Conteúdo"
+  thumbnailUrl: DeyvisFerreira.jpg
+  team: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/deyvisf/"}
+
+- 
+  id: 5
+  name: "Themis"
+  surname: "Lemos"
+  title: "Coordenadora de Conteúdo"
+  thumbnailUrl: ThemisLemos.jpg
+  team: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/themislemos/"}
