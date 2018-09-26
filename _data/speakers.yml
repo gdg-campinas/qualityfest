@@ -20,7 +20,7 @@
   title: "Arquiteto Cloud e Evangelista Devops"
   bio: "Arquiteto Cloud e Evangelista DevOps na Assertiva Soluções. Formado em Matemática pela UNICAMP, com mais de 18 anos no mercado de TI atuando como desenvolvedor Java e também com experiência em CI/CD e Cloud Computing. Sou coordenador das comunidades AWS Campinas e Qualidade de Software Campinas."
   thumbnailUrl: FlavioPimenta.jpg
-  rockstar: true
+  rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/flaap/" }
     - { name: "twitter", link: "https://twitter.com/pimentaflavio" }
@@ -35,7 +35,7 @@
   title: "QA Lead e Founder"
   bio: "Especialista em testes automatizados e entrega contínua. 15 anos atuando em testes e implantação de software em empresas do segmento financeiro, telecomunicações, marketing digital e programas de fidelização de clientes."
   thumbnailUrl: FernandoPapini.jpg
-  rockstar: true
+  rockstar: false
   social:
     - { name: "site", link: "https://about.me/papito" }
 
@@ -48,7 +48,7 @@
   title: "Software Engineer"
   bio: "Desenvolvedor de software procurando sempre aperfeiçoar seus conhecimentos. Graduado em Ciência da Computação (USC - Bauru/SP), Pós-graduado em Desenvolvimento Web (UFSCar - São Carlos/SP), \"matutando\" um Mestrado e Skatista Amador (patrocinado pela Light SKT)."
   thumbnailUrl: ClaudenirFreitas.jpg
-  rockstar: true
+  rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/claudenirfreitas/" }
     - { name: "twitter", link: "http://twitter.com/claudenir_cf" }
@@ -62,7 +62,7 @@
   title: "CEO"
   bio: "Bruno é CEO e fundador da Sofist, empresa especializada em redução e prevenção de problemas em produtos digitais por meio de testes profissionais de software. Graduado em Ciência da Computação pela UFMG e pós-graduado na mesma área pela UNICAMP, tem mais de 14 anos de experiência e atuação na área de qualidade de software, já tendo participado da entrega de projetos nacionais e internacionais para mais de 150 empresas."
   thumbnailUrl: BrunoAbreu.jpg
-  rockstar: false
+  rockstar: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/brunoabreu2/" }
 
@@ -76,7 +76,7 @@
   bio: "Filha de peixe (jornalista) peixinho sou. Sou blogueira na categoria Tecnologia no blog da MATERA e webineira também.
 E para não negar minha paixão, tenho um grupo no LinkedIn para reunir assuntos relacionados a testes: Diário de uma paixão: Teste de Software."
   thumbnailUrl: ArianeIzac.jpg
-  rockstar: false
+  rockstar: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/ariane-izac-b9a6531b/" }
 
@@ -102,7 +102,7 @@ E para não negar minha paixão, tenho um grupo no LinkedIn para reunir assuntos
   title: "Scrum Master"
   bio: "Mais de 7 anos de experiência na área de Qualidade de software, com trajetória principalmente em sistemas web. Formada em Ciências de Computação pela USP São Carlos, possui especialização em Engenharia de Software pela UNICAMP e MBA em Gerenciamento de projetos pela USP. Atualmente é Scrum Master do time do produto API Plataform na Sensedia."
   thumbnailUrl: BrunaRezende.jpg
-  rockstar: false
+  rockstar: true
   social: []
 
 # Renato Poulicer
