@@ -105,3 +105,21 @@ A ideia é compartilhar os desafios e as soluções encontradas em um projeto cu
   subtype: presentation
   speakers: [014, 016]
   complexity: Básico
+
+# Daniel Furado
+-
+  id: 1501
+  title: "O Mínimo de UX para a qualidade do produto."
+  description: ""
+  subtype: presentation
+  speakers: [017]
+  complexity: Todos
+
+# Eduardo Mendes
+-
+  id: 1601
+  title: "Como Python pode te ajudar a fazer quase tudo"
+  description: "O objetivo dessa talk é mostrar o ecossistema Python voltado para o público de qualidade. Vamos partir das ferramentas existentes para criação de de ambientes (gerencia de configuração) até ferramentas para cenários mais específicos como testes de hipótese, por exemplo."
+  subtype: presentation
+  speakers: [018]
+  complexity: Básico

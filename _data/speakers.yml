@@ -117,3 +117,34 @@ E para não negar minha paixão, tenho um grupo no LinkedIn para reunir assuntos
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/renatopoulicer/" }
+
+# Daniel Furtado
+-
+  id: 017
+  name: "Daniel"
+  surname: "Furtado"
+  company: "Wezen | UXNOW"
+  title: "Designer de Integração | Youtuber"
+  bio: "Fundador da Wezen (estúdio de design de interação e experiência do usuário) e com 20 anos de experiência em design, acredita que produtos e serviços poderiam ser bem melhores do que são. 
+Criou o canal UXNOW para explicar sobre UX, Design Centrado no Usuário e Arquitetura da Informação. 
+Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IBTA/Metrocamp/Véris, PeopleTec, Iladec, Faculdade Impacta Tecnologia, entre outros)."
+  thumbnailUrl: DanielFurtado.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/danielfurtado/" }
+    - { name: "twitter", link: "https://twitter.com/furts" }
+    - { name: "facebook", link: "https://www.facebook.com/daniel.furts" }
+    - { name: "youtube", link: "https://www.youtube.com/UXNOW" }
+
+# Eduardo Mendes
+-
+  id: 018
+  name: "Eduardo"
+  surname: "Mendes"
+  company: "Live de Python"
+  title: "Host"
+  bio: ""
+  thumbnailUrl: EduardoMendes.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/dunossauro" }
