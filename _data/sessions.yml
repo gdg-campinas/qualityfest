@@ -1,38 +1,45 @@
 -
   id: 101
-  title: "Coffee"
-  service: true
-
--
-  id: 102
-  title: "Almoço"
-  service: true
-
--
-  id: 103
-  title: "Apresentação GDG Campinas"
-  service: true
-
--
-  id: 104
   title: "Credenciamento"
   service: true
 
 -
-  id: 999
-  title: "Encerramento e Sorteios"
+  id: 201
+  title: "Apresentação GDG Campinas + Informações"
   service: true
 
 -
-  id: 201
+  id: 401
+  title: "Apresentação Sofist"
+  service: true
+
+-
+  id: 601
+  title: "Almoço"
+  service: true
+
+-
+  id: 1001
+  title: "Coffee"
+  service: true
+
+-
+  id: 1401
+  title: "Encerramento"
+  service: true
+
+# Filipe Caldas Lopes
+-
+  id: 1201
   title: "A importância do teste de Acessibilidade Web"
   description: "Todos, independente das suas habilidades, devem ter acesso a web. Segundo o IBGE, no Brasil cerca de 23,9% da população possuí pelo menos uma das deficiências investigadas: visual, auditiva, motora e mental ou intelectual. Vamos conhecer mais desse panorama brasileiro, saber o que é WCAG e conhecer na prática tecnicas e ferramentas para auxiliar nas validações de Acessibilidade Web."
   subtype: presentation
   speakers: [001]
   complexity: Básico
 
+# Flavio Pimenta
 -
-  id: 501
+  id: 1101
   title: "Metralhando o próprio produto com tudo!"
   description: "Os testes de performance muitas vezes negligenciados são importantes e podem fazer a empresa economizar muito em infraestrutura e na experiência de uso do cliente.
 Pretendo mostrar uma demo rápida com o locust que é uma ferramenta nova, escalável e que vem ganhando bastante adoção.
@@ -42,8 +49,9 @@ Pretendo fazer uma demo rodando em ambiente local e também em uma infraestrutur
   speakers: [004]
   complexity: Intermediário
 
+# Fernando Papini
 -
-  id: 701
+  id: 501
   title: "O que eu aprendi atuando com Automação de Testes e DevOps para uma plataforma baseada em Micro Serviços"
   description: "Vou falar sobre a experiência em automatizar testes integrados e unitários para um projeto onde estamos desenvolvendo uma plataforma baseada em Micro Serviços. Quais estratégias e técnicas de testes usar, como controlar os dados e massa de testes e mudanças de paradigmas."
   subtype: presentation
@@ -52,7 +60,7 @@ Pretendo fazer uma demo rodando em ambiente local e também em uma infraestrutur
 
 # Claudenir Freitas + Bruna Rezende
 -
-  id: 901
+  id: 801
   title: "Como garantir a qualidade de sua API?"
   description: "Muito se fala em APIs dado o contexto de integrações e afins... mas, como conseguimos a garantir a qualidade na entrega de nossas APIs, eis o ponto que será abordado nesta palestra."
   subtype: presentation
@@ -61,7 +69,7 @@ Pretendo fazer uma demo rodando em ambiente local e também em uma infraestrutur
 
 # Bruno Abreu
 -
-  id: 1001
+  id: 301
   title: "Uma abordagem simplificada e eficaz para testes exploratórios"
   description: "Aplicar testes exploratórios em produtos digitais pode ser uma atividade extremamente divertida e bem sucedida, desde que façamos o uso das técnicas certas nos momentos certos. Nesta breve conversa, convidamos você para um passeio bem descontraído onde apresentaremos uma abordagem eficaz e muito fácil de ser recordada, por ser baseada em situações do seu cotidiano."
   subtype: presentation
@@ -70,15 +78,15 @@ Pretendo fazer uma demo rodando em ambiente local e também em uma infraestrutur
 
 #  Elias Nogueira - Keynote
 -
-  id: 1101
-  title: "Keynote"
-  description: "Keynote"
-  subtype: keynote
+  id: 901
+  title: "Mesa Redonda"
+  description: "Mesa Redonda"
+  subtype: presentation
   speakers: [010]
 
 # Ariane Izac
 -
-  id: 1401
+  id: 1301
   title: "O que eu deveria saber antes de testar performance?"
   description: "Estou em um projeto que o foco é testar performance, e agora?
 Quais estratégias de teste precisamos analisar antes de colocar a mão na massa?
@@ -91,7 +99,7 @@ A ideia é compartilhar os desafios e as soluções encontradas em um projeto cu
 
 # Mariana Moisés + Renato Poulicer
 -
-  id: 1501
+  id: 701
   title: "Testes de Regressão Visual - Dando um upgrade nos seus teste de UI! "
   description: "Vamos falar sobre os Testes de Regressão Visual, como eles podem auxiliar no processo de testes na camada de UI, ressaltando sua importância como complemento á automação de testes e suas vantagens."
   subtype: presentation

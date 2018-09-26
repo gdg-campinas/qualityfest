@@ -55,7 +55,7 @@ c4mentorUrl: "<mentor>"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Principal"}
-#  - {permalink: "/schedule/", text: "Agenda 2017"}
+ - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 #  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Time"}
