@@ -1,19 +1,3 @@
-# Elias Nogueira
-- 
-  id: 010
-  name: "Elias"
-  surname: "Nogueira"
-  company: "Sicredi"
-  title: "QA Engineer | Agile Coach"
-  bio: "Eu ajudo pessoas e empresas a criar softwares com uma alta qualidade para que eles tenham sempre com maior qualidade do que a concorrência.
-  É QA Engineer e Agile Coach no Sicredi e Professor de Pós Graduação na Unisinos/RS e Univali/SC.
-  Atuante na comunidade de desenvolvimento advoga entre todas as pessoas da área sobre a importância da qualidade e teste de software em grupos locais em diversas regiões. Já ministrou palestras nos principais eventos do Brasil como The Developers Conference, Scrum Gathering, JavaOne, Android DevConf, Campus Party, entre outros.
-  Organiza a Trilha Testes e DevTest do The Developers Conference e é organizador do Agile Coach Meetup Porto Alegre e do GDG Porto Alegre."
-  thumbnailUrl: EliasNogueira.jpg
-  rockstar: true
-  social:
-    - { name: "linkedin", linkedin: "https://www.linkedin.com/in/eliasnogueira/" }
-
 # Filipe Caldas Lopes
 -
   id: 001
@@ -64,7 +48,7 @@
   title: "Software Engineer"
   bio: "Desenvolvedor de software procurando sempre aperfeiçoar seus conhecimentos. Graduado em Ciência da Computação (USC - Bauru/SP), Pós-graduado em Desenvolvimento Web (UFSCar - São Carlos/SP), \"matutando\" um Mestrado e Skatista Amador (patrocinado pela Light SKT)."
   thumbnailUrl: ClaudenirFreitas.jpg
-  rockstar: false
+  rockstar: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/claudenirfreitas/" }
     - { name: "twitter", link: "http://twitter.com/claudenir_cf" }

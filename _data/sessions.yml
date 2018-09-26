@@ -76,13 +76,13 @@ Pretendo fazer uma demo rodando em ambiente local e também em uma infraestrutur
   speakers: [009]
   complexity: "Todos"
 
-#  Elias Nogueira - Keynote
+#  Mesa Redonda
 -
   id: 901
   title: "Mesa Redonda"
   description: "Mesa Redonda"
   subtype: presentation
-  speakers: [010]
+  speakers: []
 
 # Ariane Izac
 -
